@@ -1,7 +1,7 @@
 ---
 title: "Numerical modeling of dielectric barrier discharge actuators based on the properties of low-frequency plasmons"
 collection: publications
-permalink: /publication/SoltaniAbdizadehNoori-SciRepo-2022
+permalink: /publication/SoltaniAbdizadehNoori_SciRepo_2022
 excerpt: 'This work develops a new model for the simulation of plasma actuators and demonstrates the abilities of the model.'
 date: 2022-22-02
 venue: 'Scientific Reports'
