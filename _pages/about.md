@@ -7,11 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome!
-
-I'm **Dina**, a passionate researcher and Ph.D. student in Mechanical Engineering at the University of Rochester. My academic journey is deeply rooted in the exploration of turbulence, nonlinear dynamics, and the intricate scale interactions within fluid mechanics.
-
-Here, you'll find a comprehensive overview of my professional and academic endeavors. This includes my ongoing research projects, publications, academic courses, and personal insights.
+I'm **Dina**, a researcher and Ph.D. student in Mechanical Engineering at the University of Rochester. My academic journey is rooted in the exploration of turbulence, nonlinear dynamics, and the intricate scale interactions within fluid mechanics.
+Here, you'll find an overview of my professional and academic endeavors. This includes my ongoing research projects, publications, academic courses, and personal insights.
 
 ## Latest News and Updates:
 
