@@ -16,5 +16,5 @@ Here, you'll find an overview of my professional and academic endeavors. This in
 - **Recent Publications:** My latest paper on "On Galilean invariance of mean kinetic helicity" has been published in the Physics of Fluids Journal.
 - **Community Engagement:** Stay tuned.
 
-Thank you for visiting my site. Whether you're a fellow researcher, a prospective student, or simply curious about what I'm interested in, I hope you find the information here both informative and inspiring. Please feel free to reach out via the contact page if you have any questions or wish to discuss potential collaborations.
+Thank you for visiting my site. Whether you're a fellow researcher, a prospective student, or simply curious about what I'm interested in, I hope you find the information here both informative and inspiring. Please feel free to reach out if you have any questions or wish to discuss potential collaborations.
 
