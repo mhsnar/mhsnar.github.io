@@ -1,7 +1,7 @@
 ---
 title: "MATLAB Course - Fall 2021"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Electives Course"
 permalink: /teaching/matlab-aut-f21
 venue: "Amirkabir University of Technology"
 date: 2021-09-01
