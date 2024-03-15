@@ -1,6 +1,6 @@
 ---
 title: "Turbulence in Compressible Systems and Energy Transfer Across Scales"
-excerpt: "Analyzing scale dynamics in compressible turbulence for a PhD research project."
+excerpt: "Analyzing scale dynamics in compressible turbulence for my PhD research."
 collection: portfolio
 ---
 
