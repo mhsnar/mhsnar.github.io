@@ -1,6 +1,6 @@
 ---
 title: "Computational Modelling of DBD Actuators and Electrodynamic Analysis"
-excerpt: "Simulating and modeling DBD actuators influenced by low-frequency plasmons."
+excerpt: "Simulating and modeling DBD actuators."
 collection: portfolio
 ---
 
