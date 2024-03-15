@@ -24,7 +24,7 @@ author:
   avatar           : "profile2.jpg"
   name             : "Dina Soltani Tehrani"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Research assistant passionate about turbulent flows, contributing to nuanced interpretations of theoretical frameworks through scientific computation."
   location         : "Earth"
   employer         : "University of Rochester"
   URI              : "https://www.complexflowgroup.com/people/"
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0001-7798-4982"
   pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/profile/Dina-Soltani-Tehrani"
+  researchgate     : #"https://www.researchgate.net/profile/Dina-Soltani-Tehrani"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -58,7 +58,7 @@ author:
   lastfm           : # Username
   linkedin         : "www.linkedin.com/in/dina-soltani-t"
   mastodon         : # URL
-  medium           : "dsoltanitehrani"
+  medium           : #"dsoltanitehrani"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
