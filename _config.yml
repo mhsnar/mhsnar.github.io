@@ -21,7 +21,7 @@ repository               : "mhsnar/mhsnar.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Profil.jpg"
   name             : "Mohsen Amiri"
   pronouns         : # example: "she/her"  
   bio              : "Student @ Robotics"
