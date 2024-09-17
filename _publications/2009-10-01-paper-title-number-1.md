@@ -1,10 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Lack of visual information alters lower limb motor coordination to control center of mass trajectory during walking"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: [/publication/2009-10-01-paper-title-number-1](https://doi.org/10.1016/j.jbiomech.2023.111650)
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 2023-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
