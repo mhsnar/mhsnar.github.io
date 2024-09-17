@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Mohsen**, a researcher and Ph.D. student in Mechanical Engineering at Washington State University. My academic journey is rooted in the exploration of Control theories, implementing them on real robots, and robot interactions with human.
+I'm **Mohsen**, a researcher and Ph.D. student in Mechanical Engineering at Washington State University. My academic journey is rooted in the exploration of Control theories, implementing them on real robots, and robot interactions with humans.
 Here, you'll find an overview of my professional and academic endeavors. This includes my ongoing research projects, publications, academic courses, and personal insights.
 
 ## Latest News and Updates:
