@@ -22,15 +22,15 @@ Work experience
   * Duties includes: ME-348 Dynamics Systems 
   * Supervisor: Dr. Ming Luo
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2024: Research Assistant
+  * AmirKabir University of Tech
+  * Duties included: Research
+  * Supervisor: Prof. Towhidkhah
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: Lab instructor
+  * AmirKabir University of Tech
+  * Duties included: Lab instructor
+  * Supervisor: Prof. Towhidkhah
   
 Skills
 ======
