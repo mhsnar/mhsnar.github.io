@@ -1,6 +1,6 @@
 ---
 title: "SIAS Lab"
-excerpt: "Team<br/><img src='/images/photo_2024-09-16_17-24-52.jpg'>"
+excerpt: "Team<br/><img src='/images/1-1.jpeg'>"
 collection: portfolio
 ---
 
