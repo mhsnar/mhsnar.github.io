@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mechanical Engineering, Washington State University, 2027 (expected)
+* M.S. in Mechanical Engineering, AmirKabir University of Tech, 2022
+* B.S. in Mechanical Engineering, Shiraz University, 2019
 
 Work experience
 ======
