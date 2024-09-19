@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Steady-State-Aware Model Predictive Control for Tracking in Systems With Limited Computing Capacity"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
