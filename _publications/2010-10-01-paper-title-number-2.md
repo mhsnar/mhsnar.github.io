@@ -3,8 +3,8 @@ title: "Steady-State-Aware Model Predictive Control for Tracking in Systems With
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
+excerpt: 
+date: 2024
 venue: 'IEEE Control Systems Letters'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: '[http://academicpages.github.io/files/paper2.pdf](https://doi.org/10.1109/LCSYS.2024.3370266)'
