@@ -7,7 +7,7 @@ excerpt: 'This paper is about the number 2. The number 3 is left for future work
 date: 2010-10-01
 venue: 'IEEE Control Systems Letters'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: '[http://academicpages.github.io/files/paper2.pdf](https://doi.org/10.1109/LCSYS.2024.3370266)'
 citation: 'Amiri, M., & Hosseinzadeh, M. (2024). Steady-State-Aware Model Predictive Control for Tracking in Systems With Limited Computing Capacity. IEEE Control Systems Letters.'
 ---
 
