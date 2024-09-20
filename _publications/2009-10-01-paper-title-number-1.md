@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink:
 date: 2023-10-01
-venue: 'Journal 1'
+venue: 'Journal of Biomechanics'
 paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://doi.org/10.1016/j.jbiomech.2023.111650)'
 citation: 'Shoja, O., Shojaei, M., Hassanlouei, H., Towhidkhah, F., Amiri, M., Boroomand, H., ... & Zhang, L. (2023). Lack of visual information alters lower limb motor coordination to control center of mass trajectory during walking. Journal of Biomechanics, 155, 111650.'
 ---
