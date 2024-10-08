@@ -1,6 +1,6 @@
 ---
 title: "Teacher Assistant"
-collection: teaching
+collection: Experiences
 type: "Undergraduate course"
 permalink: /Experiences/2014-spring-teaching-1
 venue: "University 1, Department"
