@@ -41,7 +41,8 @@ Skills
   * git
   * LaTeX
   
-* Skill 2
+* Modeling & Simulation
+  *  Simulink, Inkscape, OpenSim, CATIA, ANSYS, Adams  
 
 * Skill 3
 
