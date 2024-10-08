@@ -6,8 +6,8 @@ permalink: /publication/closedloopIdentification2024
 excerpt: 'This paper is about how to identify quadcopter dynamics.'
 date: 2024-10-21
 venue: 'Modeling, Estimation, and Control Conference (MECC 2024)'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+paperurl: 'https://mecc2024.a2c2.org/'
+citation: 'Amiri, M., & Hosseinzadeh, M. (2024). Closed-Loop Model Identification and MPC-based Navigation of Quadcopters: A Case Study of Parrot Bebop 2. arXiv preprint arXiv:2404.07267.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
