@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 4"
+title: "Closed-Loop Model Identification and MPC-based Navigation of Quadcopters: A Case Study of Parrot Bebop 2"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
