@@ -35,9 +35,11 @@ Work experience
 Skills
 ======
 * Programming
-  * Matlab, , , git, \LaTeX.
+  * Matlab
   * Python
   * ROS
+  * git
+  * LaTeX
   
 * Skill 2
 
