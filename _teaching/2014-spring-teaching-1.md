@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Teacher Assistant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /Experiences/2014-spring-teaching-1
