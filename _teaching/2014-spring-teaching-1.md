@@ -3,8 +3,8 @@ title: "Teacher Assistant"
 collection: Experiences
 type: "Undergraduate course"
 permalink: /Experiences/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "Washington State University, Department of Mechanical andMaterial Engineering"
+date: Spring 2024
 location: "City, Country"
 ---
 
