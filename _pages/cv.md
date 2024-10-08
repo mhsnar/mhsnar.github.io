@@ -34,11 +34,13 @@ Work experience
   
 Skills
 ======
-* \textbf{Programming}:
+* Programming
+  * Matlab, , , git, \LaTeX.
+  * Python
+  * ROS
+  
 * Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+
 * Skill 3
 
 Publications
