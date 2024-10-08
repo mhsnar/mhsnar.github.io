@@ -42,9 +42,16 @@ Skills
   * LaTeX
   
 * Modeling & Simulation
-  *  Simulink, Inkscape, OpenSim, CATIA, ANSYS, Adams  
+  * Simulink
+  * OpenSim 
+  * Inkscape
+  * CATIA
+  * ANSYS
 
-* Skill 3
+* Soft Skills
+  * Problem Solving
+  * Leadership
+  * Critical Thinking
 
 Publications
 ======
