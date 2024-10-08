@@ -2,7 +2,7 @@
 title: "Lack of visual information alters lower limb motor coordination to control center of mass trajectory during walking"
 collection: publications
 category: manuscripts
-permalink:
+permalink:/publication/2009-10-01-paper-title-number-1.md
 date: '2023-10-01'
 venue: 'Journal of Biomechanics'
 paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://doi.org/10.1016/j.jbiomech.2023.111650)'
