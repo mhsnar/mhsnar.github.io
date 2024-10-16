@@ -1,22 +1,6 @@
 ---
-layout: page
-title: Research
+layout: single
+title: "Research"
 permalink: /research/
+author_profile: true
 ---
-
-# My Research Projects
-
-## Project 1: [Title of Project 1]
-*Description*: A brief description of the project.
-
-- **Research Area**: [Field of Study]
-- **Collaborators**: [Names of Collaborators]
-- **Links**: [Link to papers, reports, code, etc.]
-
-## Project 2: [Title of Project 2]
-*Description*: A brief description of the project.
-
-- **Research Area**: [Field of Study]
-- **Collaborators**: [Names of Collaborators]
-- **Links**: [Link to papers, reports, code, etc.]
-
