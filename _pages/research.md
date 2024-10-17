@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-# Research Projects
+
 
 <div class="project-container">
 
@@ -18,7 +18,7 @@ author_profile: true
 “Closed-Loop Model Identification and MPC-based Navigation of Quadcopters: A Case Study of Parrot Bebop 2”, in Proc. 4th Modeling, Estimation, and Control Conference, 2024.</p>
     </div>
     <div class="project-image">
-      <img src="/assets/images/Screenshot 2024-10-16 172228.jpg" alt="Project 1 Image" />
+      <img src="/images/Screenshot 2024-10-16 172228.jpg" alt="Project 1 Image" />
     </div>
   </div>
 
@@ -34,7 +34,7 @@ predictions and reduced efficiency by causing the robot to deviate from its
 optimal path (right figure).</p>
     </div>
     <div class="project-image">
-      <img src="/assets/images/HRI.png" alt="Project 2 Image" />
+      <img src="/images/HRI.png" alt="Project 2 Image" />
     </div>
   </div>
 
