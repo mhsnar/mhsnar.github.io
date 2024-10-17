@@ -11,8 +11,11 @@ author_profile: true
 
   <div class="project-row">
     <div class="project-description">
-      <h2>Project 1: Robotics and AI</h2>
-      <p>Description of the first research project. This could include objectives, methods, and results.</p>
+      <h2>Optimization-Based Control in Safety-Critical Systems with Limited Computing Capacity</h2>
+      <p>Publications:
+
+“Steady-State-Aware Model Predictive Control for Tracking in Systems With Limited Computing Capacity”, IEEE Control Systems Letters, 2024.
+“Closed-Loop Model Identification and MPC-based Navigation of Quadcopters: A Case Study of Parrot Bebop 2”, in Proc. 4th Modeling, Estimation, and Control Conference, 2024.</p>
     </div>
     <div class="project-image">
       <img src="/assets/images/project1.jpg" alt="Project 1 Image" />
