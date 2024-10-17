@@ -24,11 +24,10 @@ author_profile: true
 
   <div class="project-row">
     <div class="project-description">
-      <h2>Safe and efficient Robot Interaction Planning in the presence of Unconcerned Human</h2>
+      <h2>Safe and Efficient Robot Interaction Planning in the Presence of Unconcerned Human</h2>
       <p>When developing action planning for robots that interact with
 humans, accurately predicting human actions is essential, as humans also
-predict the robot’s actions in HRI environments. By taking human predic-
-tions into account, robots can improve their ability to predict human actions
+predict the robot’s actions in HRI environments. By taking human predictions into account, robots can improve their ability to predict human actions
 (left figure). Ignoring this aspect of human behavior can result in inaccurate
 predictions and reduced efficiency by causing the robot to deviate from its
 optimal path (right figure).</p>
