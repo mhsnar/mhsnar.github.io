@@ -10,7 +10,7 @@ redirect_from:
 I'm **Mohsen**, a researcher and Ph.D. student in Mechanical Engineering at Washington State University. My academic journey focuses on exploring control theories, implementing them on real robots, and exploring robot interactions with humans.  
 Here, you'll find an overview of my professional and academic endeavors. This includes my ongoing research projects, publications, academic courses, and personal insights.
 
-<img src="images/Hierarchical_Control_Structure.png" alt="Welcome Image" style="width:70%;">
+<img src="images/Hierarchical_Control_Structure.png" alt="Welcome Image" style="width:75%;">
 
 ## Latest News and Updates:
 
