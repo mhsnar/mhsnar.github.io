@@ -7,7 +7,7 @@
 main:
   # - title: "Research"
   #  url: "/research/"
-    - title: "Blog Posts"
+  - title: "Blog Posts"
     url: /year-archive/
 
   - title: "Publications"
