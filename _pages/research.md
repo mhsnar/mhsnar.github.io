@@ -44,7 +44,7 @@ optimal path (right figure).</p>
       <p>Implementing model-based controllers on drones and rovers within real-world scenarios through a multi-agent ROS-based remote network. Key components include establishing a network for mobile robots, implementing a human leg tracker using RPLiDar, and developing a probabilistically safe robot planner on the Locobot WX250s. Additional efforts involve creating a robust-to-early termination model predictive control strategy validated through MATLAB simulations, and deploying a steady-state-aware controller on the Parrot Bebop 2 drone. The research also integrates SLAM for navigation and mapping using lidar and depth camera technologies, aiming to enhance the performance and safety of mobile robotics.</p>
     </div>
     <div class="project-video">
-      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=mtjFAxHPGQ4&t=25s" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://youtu.be/mtjFAxHPGQ4?si=38PMgLD-99bCJ4t7" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
     </div>
   </div>
 
