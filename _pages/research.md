@@ -34,7 +34,7 @@ predictions and reduced efficiency by causing the robot to deviate from its
 optimal path (right figure).</p>
     </div>
     <div class="project-image">
-      <img src="/assets/images/project2.jpg" alt="Project 2 Image" />
+      <img src="/assets/images/HRI.png" alt="Project 2 Image" />
     </div>
   </div>
 
