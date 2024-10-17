@@ -9,12 +9,12 @@ html {
 
 body {
   margin: 0;
-  font-size: 0.2rem;
-  // padding: $masthead-height 0 0;
-  // padding-bottom: 9em;
+  // font-size: 0.2rem;
+  padding: $masthead-height 0 0;
+  padding-bottom: 9em;
   color: $text-color;
-  // font-family: $global-font-family;
-  // line-height: 1.5;
+  font-family: $global-font-family;
+  line-height: 1.5;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
