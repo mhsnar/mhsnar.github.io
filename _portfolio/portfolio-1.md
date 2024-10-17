@@ -1,5 +1,5 @@
 ---
-title: "SIAS Lab"
+title: "Safe and Intelligent Autonomous Systems Laboratory"
 excerpt: "Team<br/><img src='/images/1-1.jpeg' style='width:80%;'>"
 collection: portfolio
 ---
