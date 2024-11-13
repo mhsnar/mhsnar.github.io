@@ -14,7 +14,7 @@ Here, you'll find an overview of my professional and academic endeavors. This in
 
 ## Latest News and Updates:
 
-- **Upcoming Talks:** MECC 2024 and 2024 NSF annual event.
+- **Upcoming Talks:** Stay tuned.
 - **Recent Publications:** My latest paper "Steady-State-Aware Model Predictive Control for Tracking in Systems With Limited Computing Capacity" has been published in IEEE Control Systems Letters.
 - **Community Engagement:** Stay tuned.
 
