@@ -2,7 +2,7 @@
 title: "Practical considerations for implementing robust-to-early termination model predictive control"
 collection: publications
 permalink: /publication/DiscreteREAP
-date: 2025
+date: 2025-01-21
 venue: 'Systems & Control Letters'
 paperurl: 'https://doi.org/10.1016/j.sysconle.2024.106018'
 citation: ' M. Amiri, M. Hosseinzadeh, "Discrete-Time Implementation of Robust-to-Early Termination Model Predictive Control." Volume 196, 2025'
