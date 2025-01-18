@@ -14,7 +14,7 @@ Here, you'll find an overview of my professional and academic endeavors. This in
 
 ## Latest News and Updates:
 
-- **Upcoming Talks:** Stay tuned.
+- **Upcoming Talks:** I will be presenting my paper in ACC'25, happening July 8-10, 2025, in Denver, Colorado.
 - **Recent Publications:** My latest paper "Practical considerations for implementing robust-to-early termination model predictive control" has been published in Systems & Control Letters.
 - **Community Engagement:** Stay tuned.
 
