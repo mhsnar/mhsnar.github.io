@@ -1,11 +1,11 @@
 ---
 title: "Practical considerations for implementing robust-to-early termination model predictive control"
 collection: publications
-permalink: /publication/SSMPC2024
-date: 2024-01-21
-venue: 'IEEE Control Systems Letters'
-paperurl: 'https://doi.org/10.1109/LCSYS.2024.3370266'
-citation: 'Amiri, M., & Hosseinzadeh, M. (2024). Steady-State-Aware Model Predictive Control for Tracking in Systems With Limited Computing Capacity. IEEE Control Systems Letters.'
+permalink: /publication/DiscreteREAP
+date: 2025
+venue: 'Systems & Control Letters'
+paperurl: 'https://doi.org/10.1016/j.sysconle.2024.106018'
+citation: ' M. Amiri, M. Hosseinzadeh, "Discrete-Time Implementation of Robust-to-Early Termination Model Predictive Control." Volume 196, 2025'
 ---
-Model Predictive Control (MPC) determines the control input by solving a receding horizon optimal control problem at each time instant, which may be computationally challenging for systems with limited computing capacity. One possible approach to address this issue in tracking problems is to reduce the prediction horizon length and modify the conventional MPC formulation so as to enlarge the region of attraction. Prior work assumes that the desired admissible steady-state configuration is known for each sequence of the reference, which is unrealistic when sequences of the reference are unknown a priori. This letter develops a steady-state-aware MPC that guarantees tracking of piecewise constant references and satisfaction of constraints, without requiring the desired admissible steady-state configuration and without adding extra computational load. Stability, recursive feasibility, and local infinite-horizon optimality of the proposed MPC are proven analytically. The effectiveness of the proposed MPC is investigated in comparison with prior work.
-
+Model predictive control, Robust-to-early termination, Discrete-time implementation, Limited computing capacity},
+abstract = {Model Predictive Control (MPC) is widely used to achieve performance objectives, while enforcing operational and safety constraints. Despite its high performance, MPC often demands significant computational resources, making it challenging to implement in systems with limited computing capacity. A recent approach to address this challenge is to use the Robust-to-Early Termination (REAP) strategy. At any time instant, REAP converts the MPC problem into the evolution of a virtual dynamical system whose trajectory converges to the optimal solution, and provides guaranteed sub-optimal and feasible solution whenever its evolution is terminated due to limited computational power. REAP has been introduced as a continuous-time scheme and its theoretical properties have been derived under the assumption that it performs all the computations in continuous time. However, REAP should be practically implemented in discrete-time. This paper focuses on the discrete-time implementation of REAP, exploring conditions under which anytime feasibility and convergence properties are maintained when the computations are performed in discrete time. The proposed methodology is validated and evaluated through extensive simulation and experimental studies.
