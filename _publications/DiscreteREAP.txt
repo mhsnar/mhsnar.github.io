@@ -1,5 +1,5 @@
 ---
-title: "Steady-State-Aware Model Predictive Control for Tracking in Systems With Limited Computing Capacity"
+title: "Practical considerations for implementing robust-to-early termination model predictive control"
 collection: publications
 permalink: /publication/SSMPC2024
 date: 2024-01-21
