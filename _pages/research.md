@@ -39,6 +39,16 @@ optimal path (right figure).</p>
 
 <div class="project-row">
   <div class="project-description">
+
+        <h2>Closed-Loop Model Identification and MPC-based Navigation of Quadcopters: A Case Study of Parrot Bebop 2</h2>
+    <p>The growing potential of quadcopters in various domains, such as aerial photography, search and rescue, and infrastructure inspection, underscores the need for real-time control under strict safety and operational constraints. This challenge is compounded by the inherent nonlinear dynamics of quadcopters and the on-board computational limitations they face.
+The question is how to address these challenges.</p>
+  </div>
+  <div class="project-video">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/mtjFAxHPGQ4" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>
+
     <h2>Implementation of Model-Based Controllers on Drones and Rovers in Real-World Scenarios</h2>
     <p>Implementing model-based controllers on drones and rovers within real-world scenarios through a multi-agent ROS-based remote network. Key components include establishing a network for mobile robots, implementing a human leg tracker using RPLiDar, and developing a probabilistically safe robot planner on the Locobot WX250s. Additional efforts involve creating a robust-to-early termination model predictive control strategy validated through MATLAB simulations, and deploying a steady-state-aware controller on the Parrot Bebop 2 drone. The research also integrates SLAM for navigation and mapping using lidar and depth camera technologies, aiming to enhance the performance and safety of mobile robotics.</p>
   </div>
