@@ -45,7 +45,7 @@ optimal path (right figure).</p>
 The question is how to address these challenges.</p>
   </div>
   <div class="project-video">
-    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=DROqNThat3k" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/DROqNThat3k" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
 
