@@ -20,20 +20,20 @@
         }
 
         .video-wrapper {
-            display: flex;
-            justify-content: center;
-            gap: 20px;
+            display: flex; /* Use flexbox for side-by-side layout */
+            justify-content: center; /* Center the videos horizontally */
+            gap: 20px; /* Add space between videos */
             margin-top: 20px;
         }
 
         .video-container {
-            width: 50%;
+            width: 50%; /* Each video container takes up 50% of the wrapper */
         }
 
         iframe {
-            width: 100%;
-            aspect-ratio: 16 / 9;
-            border-radius: 8px;
+            width: 100%; /* Make the iframe responsive within its container */
+            aspect-ratio: 16 / 9; /* Maintains 16:9 aspect ratio */
+            border-radius: 8px; /* Optional: adds rounded corners to the videos */
         }
     </style>
 </head>
