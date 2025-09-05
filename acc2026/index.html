@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ACC 2026</title>
 
-    <!-- Import Google Font -->
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     
     <style>
@@ -16,19 +15,26 @@
         }
 
         .container {
-            max-width: 900px;
+            max-width: 1200px; /* Adjusted to fit two videos */
             margin: 0 auto; /* Center the content */
         }
 
-        .video-container {
-            display: flex;
-            justify-content: flex-end; /* Shift video to the right */
+        .video-wrapper {
+            display: flex; /* Use flexbox for side-by-side layout */
+            justify-content: center; /* Center the videos horizontally */
+            gap: 20px; /* Add space between videos */
             margin-top: 20px;
         }
 
+        .video-container {
+            width: 50%; /* Each video container takes up 50% of the wrapper */
+            /* Removed flex-end, now using center on the wrapper */
+        }
+
         iframe {
-            width: 600px; /* Increase video size */
-            height: 337px;
+            width: 100%; /* Make the iframe responsive within its container */
+            aspect-ratio: 16 / 9; /* Maintains 16:9 aspect ratio */
+            border-radius: 8px; /* Optional: adds rounded corners to the videos */
         }
     </style>
 </head>
@@ -38,22 +44,33 @@
             Below is a video showcasing the numerical experiments which supplements our manuscript submission to ACC2026.
         </p>
         <a href="https://youtu.be/tuqSxhRQH-Y" title=""><img src="" width="100%" style="max-width: 850px;" alt=""></a><br> <a href="" target="_blank"></a>
-        <div class="video-container">
-             <iframe 
-                src="https://www.youtube.com/embed/tuqSxhRQH-Y" 
-                title="YouTube video player" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen>
-            </iframe>
+        <div class="video-wrapper">
+            <div class="video-container">
+                <iframe 
+                    src="https://www.youtube.com/embed/tuqSxhRQH-Y" 
+                    title="YouTube video player" 
+                    frameborder="0" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                    allowfullscreen>
+                </iframe>
+            </div>
+            <div class="video-container">
+                <iframe 
+                    src="https://www.youtube.com/embed/gun6DomO5Do" 
+                    title="YouTube video player" 
+                    frameborder="0" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                    allowfullscreen>
+                </iframe>
+            </div>
         </div>
-  
+        
         <p>
             For a higher resolution view, click the icon in the bottom left to expand the video.  Simulation and experiment codes are available at the following:
             
           <a href="https://github.com/mhsnar/Danger_Awareness/tree/main/ACC2025" target="_blank" rel="noopener noreferrer">
-    GitHub Repository
-</a>
+            GitHub Repository
+        </a>
 
         </p>
     </div>
