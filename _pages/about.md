@@ -14,7 +14,7 @@ Here, you'll find an overview of my professional and academic endeavors. This in
 
 ## Latest News and Updates:
 
-- **Upcoming Talks:** I will be presenting my paper in MECC'25, happening October 5-8, 2025, in Pittsburgh, Pennsylvania, USA.
+- **Upcoming Talks:** Stay tuned.
 - **Recent Publications:** My latest paper "Practical considerations for implementing robust-to-early termination model predictive control" has been published in Systems & Control Letters.
 - **Community Engagement:** Stay tuned.
 
