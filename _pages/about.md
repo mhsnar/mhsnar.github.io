@@ -15,7 +15,8 @@ Here, you'll find an overview of my professional and academic endeavors. This in
 ## Latest News and Updates:
 
 - **Upcoming Talks:** Stay tuned.
-- **Recent Publications:** My latest paper "Practical considerations for implementing robust-to-early termination model predictive control" has been published in Systems & Control Letters.
+- **Recent Publications:** My latest paper "A Dynamic Embedding Method for the Real-Time Solution of
+Time-Varying Constrained Convex Optimization Problems" has been published in Systems & Control Letters.
 - **Community Engagement:** Stay tuned.
 
 Thank you for visiting my site. Whether you're a fellow researcher, a prospective student, or simply curious about what I'm interested in, I hope you find the information here both informative and inspiring. Please feel free to reach out if you have any questions or wish to discuss potential collaborations.
