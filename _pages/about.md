@@ -86,13 +86,13 @@ redirect_from:
       <br>
       <i>IEEE American Control Conference (ACC)</i>, 2025
       <br>
-      <a href="https://arxiv.org/pdf/2501.13203">[pdf]</a> / <a href="https://youtu.be/G5T776pCAQI">[video]</a>
+      <a href="https://arxiv.org/pdf/2501.13203">[pdf]</a> / <a href="https://www.youtube.com/embed/9mFowiFrHF4?si=23QOl0gAbc1paJcQ">[video]</a>
       <br><br>
       This approach proposes a robot action planning scheme that provides an efficient and probabilistically safe plan for a robot interacting with an unconcerned human—someone who is either unaware of the robot's presence or unwilling to engage in ensuring safety. 
     </td>
     <td style="width:45%; vertical-align:top; border:none; text-align:center;">
       <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius:10px;">
-        <iframe src="https://www.youtube.com/embed/G5T776pCAQI?si=F-PyFT7xKWvWAVnn"
+        <iframe src="https://www.youtube.com/embed/9mFowiFrHF4?si=23QOl0gAbc1paJcQ"
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
                 frameborder="0" allowfullscreen></iframe>
       </div>
