@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I'm **Mohsen**, a researcher and PhD candidate in Mechanical Engineering at [Washington State University](https://www.wsu.edu) and part of the [SIAS Lab](https://labs.wsu.edu/siaslab/), advised by [Dr. Mehdi Hosseinzadeh](https://mme.wsu.edu/mme-personnel/wsu-profile/mehdi.hosseinzadeh/). My academic journey focuses on developing control theories, implementing them on real robots, and exploring robot interactions with humans.   
-I am particularly interested in leveraging tools from applied analysis and partial differential equations to address challenges in real-world autonomy, and validating these methods on hardware across various robotic platforms (e.g., mobile robots, quadrupeds, drones etc). 
+I am particularly interested in leveraging tools from applied analysis and partial differential equations to address challenges in real-world autonomy, and validating these methods on hardware across various robotic platforms (e.g., mobile robots, quadrupeds, drones etc). Recently, I have also been working on human-robot interaction challenges, focusing on the safety and efficiency of both the robot and the interaction itself.
 
 <img src="images/Hierarchical_Control_Structure.png" alt="Welcome Image" style="width:75%;">
 
