@@ -9,10 +9,10 @@ redirect_from:
 
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
-    <td style="width:55%; vertical-align:top; border:none; padding-right:20px;">
+    <td style="width:55%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
       I'm a PhD candidate in Mechanical Engineering at <a href="https://www.wsu.edu">Washington State University</a> and part of the <a href="https://labs.wsu.edu/siaslab/">SIAS Lab</a>, advised by <a href="https://mme.wsu.edu/mme-personnel/wsu-profile/mehdi.hosseinzadeh/">Dr. Mehdi Hosseinzadeh</a>. 
       <br><br>
-      My academic journey focuses on developing control theories, implementing them on real robots, and exploring robot interactions with humans. I am particularly interested in leveraging tools from applied analysis and partial differential equations to address challenges in real-world autonomy, and validating these methods on hardware across various robotic platforms (e.g., mobile robots, quadrupeds, and drones). Recently, I have also been working on human-robot interaction challenges, focusing on the safety and efficiency of both the robot and the interaction itself.
+      My academic journey focuses on developing control theories, implementing them on real robots, and exploring robot interactions with humans. I am particularly interested in leveraging tools from **applied analysis** and **partial differential equations** to address challenges in real-world autonomy, and validating these methods on hardware across various robotic platforms (e.g., mobile robots, quadrupeds, and drones). Recently, I have also been working on **human-robot interaction** challenges, focusing on the safety and efficiency of both the robot and the interaction itself.
     </td>
     <td style="width:45%; vertical-align:top; border:none; text-align:center;">
       <img src="images/Hierarchical_Control_Structure.png" alt="Hierarchical Control Structure" style="width:100%; border-radius:10px;">
@@ -27,7 +27,7 @@ redirect_from:
 
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
-    <td style="width:55%; vertical-align:top; border:none; padding-right:20px;">
+    <td style="width:55%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
       <h3><u>A dynamic embedding method for the real-time solution of time-varying constrained convex optimization problems</u></h3>
       <br>
       <b>M. Amiri</b>, I. Kolmanovsky, M. Hosseinzadeh
@@ -53,7 +53,7 @@ redirect_from:
 
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
-    <td style="width:55%; vertical-align:top; border:none; padding-right:20px;">
+    <td style="width:55%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
       <h3><u>CERTIS: A Computationally Efficient Model Predictive Control Framework for Resource-Constrained Safety-Critical Systems</u></h3>
       <br>
       <b>M. Amiri</b>, I. Kolmanovsky, M. Hosseinzadeh
@@ -79,7 +79,7 @@ redirect_from:
 
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
-    <td style="width:55%; vertical-align:top; border:none; padding-right:20px;">
+    <td style="width:55%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
       <h3><u>Safe and Efficient Robot Action Planning in the Presence of Unconcerned Humans</u></h3>
       <br>
       <b>M. Amiri</b>, M. Hosseinzadeh
