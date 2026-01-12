@@ -66,7 +66,7 @@ redirect_from:
 </td>
     <td style="width:45%; vertical-align:top; border:none; text-align:center;">
       <div style="display: flex; flex-direction: column; gap: 10px;">
-        <img src="images/CERTIS A Computationally Efficient MPC Framework for Resource-Constrained Safety-Critical Systems - Mohsen Amiri (1080p, h264) (1).gif" alt="CERTIS Demo 2" style="width:100%; border-radius:10px;">
+        <img src="images/CERTIS A Computationally Efficient MPC Framework for Resource-Constrained Safety-Critical Systems - Mohsen Amiri (1080p, h264) (2).gif" alt="CERTIS Demo 2" style="width:100%; border-radius:10px;">
       </div>
       <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>CERTIS Framework Demonstrations</i></p>
     </td>
