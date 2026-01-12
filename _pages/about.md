@@ -104,7 +104,7 @@ redirect_from:
       <br>
       K, Yazdipaz, <b>M. Amiri</b>, M. Hosseinzadeh
       <br>
-      <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>, 2026
+      <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (In progress)</i>, 2026
       <br>
       <a href="https://www.youtube.com/embed/KwFSXbixrdw?si=JkrK1m7DIU7bFAxD">[video]</a>
       <br><br>
