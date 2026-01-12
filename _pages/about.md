@@ -55,11 +55,11 @@ redirect_from:
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
     <td style="width:50%; vertical-align:top; border:none; padding-right:20px;">
-      <h3>A dynamic embedding method for the real-time solution of time-varying constrained convex optimization problems</h3>
+      <h3>CERTIS: A Computationally Efficient Model Predictive Control Framework for Resource-Constrained Safety-Critical Systems</h3>
       <br>
       <b>M. Amiri</b>, I. Kolmanovsky, M. Hosseinzadeh
       <br>
-      <i>Systems & Control Letters</i>, 2026
+      <i>IEEE Transactions on Automatic Control (Under review)</i>, 2026
       <br><br>
       The proposed approach presents a method for solving time-varying constrained convex optimization problems in real time. The key idea is to embed the optimal solution within the internal state of a virtual dynamical system that evolves in parallel with the underlying optimization problem. 
       <br><br>
