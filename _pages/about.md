@@ -74,3 +74,29 @@ redirect_from:
     </td>
   </tr>
 </table>
+
+---
+
+<table style="width:100%; border:none; border-collapse:collapse;">
+  <tr>
+    <td style="width:55%; vertical-align:top; border:none; padding-right:20px;">
+      <h3>Safe and Efficient Robot Action Planning in the Presence of Unconcerned Humans</h3>
+      <br>
+      <b>M. Amiri</b>, M. Hosseinzadeh
+      <br>
+      <i>IEEE American Control Conference (ACC)</i>, 2026
+      <br>
+       / <a href="https://www.youtube.com/embed/G5T776pCAQI?si=F-PyFT7xKWvWAVnn">[video]</a>
+      <br><br>
+     This approach proposes a robot action planning scheme that provides an efficient and probabilistically safe plan for a robot interacting with an unconcerned human -- someone who is either unaware of the robot's presence or unwilling to engage in ensuring safety. This method argues how humans rely on predictions of other agents' future actions (including those of robots in human-robot interaction) in their decision-making. 
+    </td>
+    <td style="width:45%; vertical-align:top; border:none; text-align:center;">
+      <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius:10px;">
+        <iframe src="https://www.youtube.com/embed/G5T776pCAQI?si=F-PyFT7xKWvWAVnn"
+                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+                frameborder="0" allowfullscreen></iframe>
+      </div>
+      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>Project Demonstration</i></p>
+    </td>
+  </tr>
+</table>
