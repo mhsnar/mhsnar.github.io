@@ -197,7 +197,7 @@ tion model predictive control</u></h3>
       <br>
       <i>Modeling, Estimation and Control Conference (MECC)</i>, 2024
       <br>
-      <a href="https://doi.org/10.1016/j.ifacol.2025.01.016">[pdf]</a> / <a href="https://doi.org/10.1109/LCSYS.2024.3370266">[pdf]</a> / <a href="https://www.youtube.com/embed/DROqNThat3k?si=Es-D4ZVeUmExL3fS">[Video]</a>
+      <a href="https://doi.org/10.1016/j.ifacol.2025.01.016">[pdf]</a> / <a href="https://github.com/mhsnar/Closed-loop-Identification">[Github]</a>
       <br><br>
       This approach introduces a linear, efficient quadrotor model that reduces complexity while maintaining performance. We developed a steady-state-aware Model Predictive Control (MPC) that ensures constant constraint satisfaction with low computational overhead, ideal for resource-constrained platforms. The proposed algorithms were experimentally validated and evaluated using the Parrot Bebop 2.
    
@@ -206,6 +206,25 @@ tion model predictive control</u></h3>
       <img src="images/Closed-Loop Model Identification and MPC-based Navigation of Quadcopters A Case Study of Parrot B.2 - Mohsen Amiri (1080p, h264).gif" alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
       <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>Project Demonstration</i></p>
     </td>
+  </tr>
+</table>
+
+---
+<table style="width:100%; border:none; border-collapse:collapse;">
+  <tr>
+    <td style="width:50%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
+      <h3><u>Steady-State-Aware Model Predictive Control for Tracking in Systems With Limited Computing Capacity</u></h3>
+      <br>
+      <b>M. Amiri</b>, M. Hosseinzadeh
+      <br>
+      <i>IEEE Control Systems Letters</i>, 2024
+      <br>
+      <a href="https://doi.org/10.1109/LCSYS.2024.3370266">[pdf]</a> / <a href="https://www.youtube.com/embed/DROqNThat3k?si=Es-D4ZVeUmExL3fS">[Video]</a>
+      <br><br>
+      We developed a steady-state-aware MPC that guarantees tracking of piecewise constant references and satisfaction of constraints, without requiring the desired admissible steady-state configuration and without adding extra computational load. Stability, recursive feasibility, and local infinite-horizon optimality of the proposed MPC are proven analytically. 
+   
+</td>
+    
   </tr>
 </table>
 
