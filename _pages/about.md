@@ -130,7 +130,7 @@ redirect_from:
       <br>
       <a href="https://doi.org/10.1016/j.ifacol.2025.12.386">[pdf]</a> / <a href="https://github.com/mhsnar/REAP-T">[Github]</a>
       <br><br>
-      Named REAP-T, this toolbox is a comprehensive, user-friendly, and modular platform for analyzing REAP for specific applications. Features include: (i) built-in MATLAB functions; (ii) interactive GUI; (iii) real-time simulation; and (iv) real-world examples.
+      Named REAP-T, this toolbox is a comprehensive, user-friendly, and modular platform that enables users to explore, analyze, and customize various components of REAP for their specific applications. Notable attributes of REAP-T are: (i) utilization of built-in MATLAB functions for defining the MPC problem; (ii) an interactive and intuitive graphical user interface for parameter tuning and visualization; (iii) real-time simulation capabilities, allowing users to observe and understand the real-time behavior of their systems; and (iv) inclusion of real-world examples designed to guide users through its effective use.
    
 </td>
     <td style="width:45%; vertical-align:top; border:none; text-align:center;">
