@@ -179,7 +179,7 @@ tion model predictive control</u></h3>
    
 </td>
     <td style="width:45%; vertical-align:top; border:none; text-align:center;">
-      <img src="images/CERTIS A Computationally Efficient MPC Framework for Resource-Constrained Safety-Critical Systems - Mohsen Amiri (1080p, h264) (1) (1).gif" alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
+      <img src="images/Closed-Loop Model Identification and MPC-based Navigation of Quadcopters A Case Study of Parrot B.2 - Mohsen Amiri (1080p, h264).gif" alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
       <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>Project Demonstration</i></p>
     </td>
   </tr>
