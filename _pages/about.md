@@ -38,17 +38,17 @@ redirect_from:
       <a>[pdf]</a> / <a href="https://www.youtube.com/embed/FMyig44R5aM?si=TUoDww9-McNiuYdF">[video]</a>
       <br><br>
       We formulate the CLF-CBF-QP as a Dynamic Embedding problem, defining a virtual continuous-time system that tracks the suboptimal yet any time feasible control input  in real-time. This rigorously guarantees the safety meaning that the constraints are satisfied at all times without any requirement of hessian. 
-    </td>
+  
+</td>
     <td style="width:45%; vertical-align:top; border:none; text-align:center;">
-      <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius:10px;">
-        <iframe src="https://www.youtube.com/embed/FMyig44R5aM?si=TUoDww9-McNiuYdF"
-                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-                frameborder="0" allowfullscreen></iframe>
-      </div>
+      <img src="images/Advancing Control Barrier Functions for Real-Time Complex Safety Specifications - Mohsen Amiri (720p, h264) (1).gif" alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
       <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>Project Demonstration</i></p>
     </td>
   </tr>
 </table>
+
+---
+
 ---
 
 <table style="width:100%; border:none; border-collapse:collapse;">
@@ -118,4 +118,3 @@ redirect_from:
   </tr>
 </table>
 
----
