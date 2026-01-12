@@ -173,7 +173,7 @@ tion model predictive control</u></h3>
       <br>
       <i>Modeling, Estimation and Control Conference (MECC)</i>, 2024
       <br>
-      <a href="https://doi.org/10.1016/j.ifacol.2025.01.016">[pdf]</a> / <a href="https://doi.org/10.1109/LCSYS.2024.3370266">[pdf]</a> / <a href="https://github.com/mhsnar/REAP-T">[Video]</a>
+      <a href="https://doi.org/10.1016/j.ifacol.2025.01.016">[pdf]</a> / <a href="https://doi.org/10.1109/LCSYS.2024.3370266">[pdf]</a> / <a href="https://www.youtube.com/embed/DROqNThat3k?si=Es-D4ZVeUmExL3fS">[Video]</a>
       <br><br>
       This approach introduces a linear, efficient quadrotor model that reduces complexity while maintaining performance. We developed a steady-state-aware Model Predictive Control (MPC) that ensures constant constraint satisfaction with low computational overhead, ideal for resource-constrained platforms. The proposed algorithms were experimentally validated and evaluated using the Parrot Bebop 2.
    
