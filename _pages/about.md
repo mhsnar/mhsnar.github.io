@@ -30,7 +30,7 @@ redirect_from:
     <td style="width:55%; vertical-align:top; border:none; padding-right:20px;">
       A dynamic embedding method for the real-time solution of time-varying constrained convex optimization problems</a>. 
       <br>
-      M Amiri, I Kolmanovsky, M Hosseinzadeh
+      *M Amiri*, I Kolmanovsky, M Hosseinzadeh
   <br>
   Systems & Control Letters, 2026
   <br>
