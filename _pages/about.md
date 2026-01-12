@@ -63,14 +63,17 @@ redirect_from:
       [pdf] / <a href="https://youtu.be/sPeUhQ82Mpc">[video]</a>
       <br><br>
       CERTIS enables the deployment of MPC in resource-constrained, safety-critical systems, where conventional MPC often fails due to computational limitations. A key feature of CERTIS is its ability to generate feasible and sub-optimal solutions even when the available computation time is insufficient to fully solve the MPC-related optimization problem. 
-    </td>
+</td>
     <td style="width:45%; vertical-align:top; border:none; text-align:center;">
-      <img src="images/CERTIS A Computationally Efficient MPC Framework for Resource-Constrained Safety-Critical Systems - Mohsen Amiri (1080p, h264).gif" alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
-      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>Project Demonstration</i></p>
+      <div style="display: flex; flex-direction: column; gap: 10px;">
+        <img src="images/images/CERTIS A Computationally Efficient MPC Framework for Resource-Constrained Safety-Critical Systems - Mohsen Amiri (1080p, h264).gif" alt="CERTIS Demo 1" style="width:100%; border-radius:10px;">
+        <img src="images/CERTIS A Computationally Efficient MPC Framework for Resource-Constrained Safety-Critical Systems - Mohsen Amiri (1080p, h264) (1).gif" alt="CERTIS Demo 2" style="width:100%; border-radius:10px;">
+        <img src="images/certis_3.gif" alt="CERTIS Demo 3" style="width:100%; border-radius:10px;">
+      </div>
+      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>CERTIS Framework Demonstrations</i></p>
     </td>
   </tr>
 </table>
-
 ---
 
 <table style="width:100%; border:none; border-collapse:collapse;">
