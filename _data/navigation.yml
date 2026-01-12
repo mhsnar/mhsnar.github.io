@@ -8,7 +8,7 @@ main:
 
   # - title: "Blog Posts"
   #   url: /year-archive/
-  - title: "Research"
+  - title: "Projects"
     url: "/research/"
 
   - title: "Publications"
