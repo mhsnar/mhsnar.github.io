@@ -128,9 +128,9 @@ redirect_from:
       <br>
       <i>Modeling, Estimation and Control Conference (MECC)</i>, 2025
       <br>
-      <a href="https://doi.org/10.1016/j.sysconle.2026.106352">[pdf]</a> / <a href="https://youtu.be/qGsw7iaElCI">[video]</a>
+      <a href="https://doi.org/10.1016/j.ifacol.2025.12.386">[pdf]</a> / <a href="https://github.com/mhsnar/REAP-T">[Github]</a>
       <br><br>
-      The proposed approach presents a method for solving time-varying constrained convex optimization problems in real time. The key idea is to embed the optimal solution within the internal state of a virtual dynamical system that evolves in parallel with the underlying optimization problem. 
+     Named REAP-T, this toolbox is a comprehensive, user-friendly, and modular platform that enables users to explore, analyze, and customize various components of REAP for their specific applications. Notable attributes of REAP-T are: (i) utilization of built-in MATLAB functions for defining the MPC problem; (ii) an interactive and intuitive graphical user interface for parameter tuning and visualization; (iii) real-time simulation capabilities, allowing users to observe and understand the real-time behavior of their systems; and (iv) inclusion of real-world examples designed to guide users through its effective use.
    
 </td>
     <td style="width:45%; vertical-align:top; border:none; text-align:center;">
