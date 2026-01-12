@@ -86,17 +86,15 @@ redirect_from:
       <a href="https://arxiv.org/pdf/2501.13203">[pdf]</a> / <a href="https://www.youtube.com/embed/9mFowiFrHF4?si=23QOl0gAbc1paJcQ">[video]</a>
       <br><br>
       This approach proposes a robot action planning scheme that provides an efficient and probabilistically safe plan for a robot interacting with an unconcerned human—someone who is either unaware of the robot's presence or unwilling to engage in ensuring safety. 
-    </td>
+   
+</td>
     <td style="width:45%; vertical-align:top; border:none; text-align:center;">
-      <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius:10px;">
-        <iframe src="https://www.youtube.com/embed/9mFowiFrHF4?si=23QOl0gAbc1paJcQ"
-                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-                frameborder="0" allowfullscreen></iframe>
-      </div>
+      <img src="images/Safe and Efficient Robot Action Planning in the Presence of Unconcerned Humans - Mohsen Amiri (1080p, h264).gif " alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
       <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>Project Demonstration</i></p>
     </td>
   </tr>
 </table>
+---
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
     <td style="width:55%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
@@ -113,14 +111,6 @@ redirect_from:
 </td>
     <td style="width:45%; vertical-align:top; border:none; text-align:center;">
       <img src="images/ADynamicEmbeddingMethodforReal-TimeSolutionofTime-VaryingConstrainedConvexOptimization-MohsenAmiri720ph264-ezgif.com-crop.gif" alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
-      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>Project Demonstration</i></p>
-    </td>
-  </tr>
-</table>
-
-</td>
-    <td style="width:45%; vertical-align:top; border:none; text-align:center;">
-      <img src="images/Safe and Efficient Robot Action Planning in the Presence of Unconcerned Humans - Mohsen Amiri (1080p, h264).gif " alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
       <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>Project Demonstration</i></p>
     </td>
   </tr>
