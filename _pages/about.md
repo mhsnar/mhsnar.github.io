@@ -116,3 +116,26 @@ redirect_from:
     </td>
   </tr>
 </table>
+
+
+---
+<table style="width:100%; border:none; border-collapse:collapse;">
+  <tr>
+    <td style="width:55%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
+      <h3><u>REAP-T: A MATLAB Toolbox for Implementing Robust-to-Early Termination MPC</u></h3>
+      <br>
+      <b>M. Amiri</b>, M. Hosseinzadeh
+      <br>
+      <i>Modeling, Estimation and Control Conference (MECC)</i>, 2025
+      <br>
+      <a href="https://doi.org/10.1016/j.sysconle.2026.106352">[pdf]</a> / <a href="https://youtu.be/qGsw7iaElCI">[video]</a>
+      <br><br>
+      The proposed approach presents a method for solving time-varying constrained convex optimization problems in real time. The key idea is to embed the optimal solution within the internal state of a virtual dynamical system that evolves in parallel with the underlying optimization problem. 
+   
+</td>
+    <td style="width:45%; vertical-align:top; border:none; text-align:center;">
+      <img src="images/ADynamicEmbeddingMethodforReal-TimeSolutionofTime-VaryingConstrainedConvexOptimization-MohsenAmiri720ph264-ezgif.com-crop.gif" alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
+      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>Project Demonstration</i></p>
+    </td>
+  </tr>
+</table>
