@@ -94,6 +94,7 @@ redirect_from:
     </td>
   </tr>
 </table>
+
 ---
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
@@ -115,11 +116,13 @@ redirect_from:
     </td>
   </tr>
 </table>
+
+
 ---
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
     <td style="width:55%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
-      <h3><u>REAP-T: A MATLAB Toolbox for Implementing Robust-to-Early Termination Model Predictive Control</u></h3>
+      <h3><u> REAP-T: A MATLAB Toolbox for Implementing Robust-to-Early Termination Model Predictive Control</u></h3>
       <br>
       <b>M. Amiri</b>, M. Hosseinzadeh
       <br>
