@@ -35,7 +35,7 @@ redirect_from:
       <br>
       <i>IEEE (In progress)</i>, 2026
       <br>
-      <a>[pdf]</a> / <a href="https://www.youtube.com/embed/FMyig44R5aM?si=TUoDww9-McNiuYdF">[video]</a>
+       <a href="https://www.youtube.com/embed/FMyig44R5aM?si=TUoDww9-McNiuYdF">[video]</a>
       <br><br>
       We formulate the CLF-CBF-QP as a Dynamic Embedding problem, defining a virtual continuous-time system that tracks the suboptimal yet any time feasible control input  in real-time. This rigorously guarantees the safety meaning that the constraints are satisfied at all times without any requirement of hessian. 
   
@@ -60,7 +60,7 @@ redirect_from:
       <br>
       <i>IEEE Transactions on Automatic Control (Under review)</i>, 2026
       <br>
-      [pdf] / <a href="https://youtu.be/sPeUhQ82Mpc">[video]</a>
+       <a href="https://youtu.be/sPeUhQ82Mpc">[video]</a>
       <br><br>
       CERTIS enables the deployment of MPC in resource-constrained, safety-critical systems, where conventional MPC often fails due to computational limitations. A key feature of CERTIS is its ability to generate feasible and sub-optimal solutions even when the available computation time is insufficient to fully solve the MPC-related optimization problem. 
 </td>
