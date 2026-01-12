@@ -42,7 +42,7 @@ redirect_from:
 </td>
     <td style="width:50%; vertical-align:top; border:none; text-align:center;">
       <img src="images/Advancing Control Barrier Functions for Real-Time Complex Safety Specifications - Mohsen Amiri (720p, h264) (1).gif" alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
-      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>Project Demonstration</i></p>
+      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>Navigation in complex environment</i></p>
     </td>
   </tr>
 </table>
@@ -68,7 +68,7 @@ redirect_from:
       <div style="display: flex; flex-direction: column; gap: 10px;">
         <img src="images/CERTIS A Computationally Efficient MPC Framework for Resource-Constrained Safety-Critical Systems - Mohsen Amiri (1080p, h264) (2).gif" alt="CERTIS Demo 2" style="width:100%; border-radius:10px;">
       </div>
-      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>CERTIS Framework Demonstrations</i></p>
+      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>CERTIS computational efficiency</i></p>
     </td>
   </tr>
 </table>
@@ -90,7 +90,7 @@ redirect_from:
 </td>
     <td style="width:50%; vertical-align:top; border:none; text-align:center;">
       <img src="images/Safe and Efficient Robot Action Planning in the Presence of Unconcerned Humans - Mohsen Amiri (1080p, h264).gif " alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
-      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>Project Demonstration</i></p>
+      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>Real-time human awareness detection</i></p>
     </td>
   </tr>
 </table>
@@ -112,7 +112,7 @@ redirect_from:
 </td>
     <td style="width:45%; vertical-align:top; border:none; text-align:center;">
       <img src="images/ADynamicEmbeddingMethodforReal-TimeSolutionofTime-VaryingConstrainedConvexOptimization-MohsenAmiri720ph264-ezgif.com-crop.gif" alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
-      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>Project Demonstration</i></p>
+      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i> Motion trajectory of the robot, illustrating that it closely follows the desired trajectory while avoiding obstacles.</i></p>
     </td>
   </tr>
 </table>
