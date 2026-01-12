@@ -140,5 +140,28 @@ redirect_from:
   </tr>
 </table>
 
+---
+<table style="width:100%; border:none; border-collapse:collapse;">
+  <tr>
+    <td style="width:55%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
+      <h3><u>REAP-T: Practical considerations for implementing robust-to-early termina-
+tion model predictive control</u></h3>
+      <br>
+      <b>M. Amiri</b>, M. Hosseinzadeh
+      <br>
+      <i>Systems & Control Letters, (MECC)</i>, 2025
+      <br>
+      <a href="https://doi.org/10.1016/j.sysconle.2024.106018">[pdf]</a> 
+      <br><br>
+      The core idea is to adaptively adjust the evolution rate of the gradient flow dynamics such that REAP’s properties are maintained when REAP computes the updates of the decision variables in discrete time. Theoretical properties of such a discrete-time implementation are proven analytically, and extensive simulation and experimental studies are provided to support our analyses.
+   
+</td>
+    <td style="width:45%; vertical-align:top; border:none; text-align:center;">
+      <img src="images/CERTIS A Computationally Efficient MPC Framework for Resource-Constrained Safety-Critical Systems - Mohsen Amiri (1080p, h264) (1) (1).gif" alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
+      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>Project Demonstration</i></p>
+    </td>
+  </tr>
+</table>
+
 
 
