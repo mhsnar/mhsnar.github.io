@@ -117,3 +117,28 @@ redirect_from:
   </tr>
 </table>
 
+
+---
+<table style="width:100%; border:none; border-collapse:collapse;">
+  <tr>
+    <td style="width:55%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
+      <h3><u>REAP-T: A MATLAB Toolbox for Implementing Robust-to-Early Termination MPC</u></h3>
+      <br>
+      <b>M. Amiri</b>, M. Hosseinzadeh
+      <br>
+      <i>Modeling, Estimation and Control Conference (MECC)</i>, 2025
+      <br>
+      <a href="https://doi.org/10.1016/j.ifacol.2025.12.386">[pdf]</a> / <a href="https://github.com/mhsnar/REAP-T">[Github]</a>
+      <br><br>
+      Named REAP-T, this toolbox is a comprehensive, user-friendly, and modular platform for analyzing REAP for specific applications. Features include: (i) built-in MATLAB functions; (ii) interactive GUI; (iii) real-time simulation; and (iv) real-world examples.
+   
+</td>
+    <td style="width:45%; vertical-align:top; border:none; text-align:center;">
+      <img src="images/REAP.gif" alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
+      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>Project Demonstration</i></p>
+    </td>
+  </tr>
+</table>
+
+
+
