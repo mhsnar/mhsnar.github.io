@@ -166,7 +166,7 @@ tion model predictive control</u></h3>
 ---
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
-    <td style="width:55%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
+    <td style="width:50%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
       <h3><u>Closed-Loop Model Identification and MPC-based Navigation of Quadcopters: A Case Study of Parrot Bebop 2</u></h3>
       <br>
       <b>M. Amiri</b>, M. Hosseinzadeh
@@ -178,7 +178,7 @@ tion model predictive control</u></h3>
       First, this approach presents a comprehensive procedure for deriving a linear yet efficient model to describe the dynamics of quadrotors, thereby reducing complexity without compromising efficiency. Then, we develops a steady-state-aware Model Predictive Control (MPC) to effectively navigate quadcopters, while guaranteeing constraint satisfaction at all times. The main advantage of the steady-state-aware MPC is its low computational complexity, which makes it an appropriate choice for systems with limited computing capacity, like quadcopters. We consider Parrot Bebop 2 as the running example, and experimentally validates and evaluates the proposed algorithms.
    
 </td>
-    <td style="width:45%; vertical-align:top; border:none; text-align:center;">
+    <td style="width:50%; vertical-align:top; border:none; text-align:center;">
       <img src="images/Closed-Loop Model Identification and MPC-based Navigation of Quadcopters A Case Study of Parrot B.2 - Mohsen Amiri (1080p, h264).gif" alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
       <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>Project Demonstration</i></p>
     </td>
