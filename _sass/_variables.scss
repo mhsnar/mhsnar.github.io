@@ -144,23 +144,33 @@ $susy: (
    ========================================================================== */
 
 /* ==========================================================================
-   FORCE FULL WIDTH OVERRIDE
+   FIXED FULL WIDTH OVERRIDE (Corrected)
    ========================================================================== */
 
-.archive, .page, .single {
+#main {
+  max-width: 95% !important; /* Use almost the whole screen width */
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: center;
+}
+
+.initial-content, .page {
+  /* This ensures content stays to the right of your sidebar */
   @include breakpoint($large) {
+    padding-left: 40px !important; 
     width: 100% !important;
-    max-width: 1400px !important; /* This controls the total width */
-    padding-right: 40px;
+    max-width: 100% !important;
   }
 }
 
-#main {
-  max-width: 1400px !important; /* Ensures the main container expands */
-  margin-left: auto;
-  margin-right: auto;
+/* Prevents the sidebar from overlapping the text */
+.sidebar {
+  @include breakpoint($large) {
+    width: 250px !important; 
+    min-width: 250px !important;
+  }
 }
-
 $border-radius              : 4px;
 $box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
 $navicon-width              : 28px;
