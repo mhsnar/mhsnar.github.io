@@ -25,22 +25,23 @@ redirect_from:
 
 ## Research:
 
+
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
     <td style="width:55%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
-      <h3><u>A dynamic embedding method for the real-time solution of time-varying constrained convex optimization problems</u></h3>
+      <h3><u>Safe and Efficient Robot Action Planning in the Presence of Unconcerned Humans</u></h3>
       <br>
-      <b>M. Amiri</b>, I. Kolmanovsky, M. Hosseinzadeh
+      <b>M. Amiri</b>, M. Hosseinzadeh
       <br>
-      <i>Systems & Control Letters</i>, 2026
+      <i>IEEE American Control Conference (ACC)</i>, 2025
       <br>
-      <a href="https://doi.org/10.1016/j.sysconle.2026.106352">[pdf]</a> / <a href="https://youtu.be/qGsw7iaElCI">[video]</a>
+      <a href="https://arxiv.org/pdf/2501.13203">[pdf]</a> / <a href="https://www.youtube.com/embed/9mFowiFrHF4?si=23QOl0gAbc1paJcQ">[video]</a>
       <br><br>
-      The proposed approach presents a method for solving time-varying constrained convex optimization problems in real time. The key idea is to embed the optimal solution within the internal state of a virtual dynamical system that evolves in parallel with the underlying optimization problem. 
+      This approach proposes a robot action planning scheme that provides an efficient and probabilistically safe plan for a robot interacting with an unconcerned human—someone who is either unaware of the robot's presence or unwilling to engage in ensuring safety. 
     </td>
     <td style="width:45%; vertical-align:top; border:none; text-align:center;">
       <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius:10px;">
-        <iframe src="https://www.youtube.com/embed/qGsw7iaElCI?si=MZl8qskdTns5xEGn" 
+        <iframe src="https://www.youtube.com/embed/9mFowiFrHF4?si=23QOl0gAbc1paJcQ"
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
                 frameborder="0" allowfullscreen></iframe>
       </div>
@@ -48,7 +49,6 @@ redirect_from:
     </td>
   </tr>
 </table>
-
 ---
 
 <table style="width:100%; border:none; border-collapse:collapse;">
@@ -100,3 +100,28 @@ redirect_from:
     </td>
   </tr>
 </table>
+<table style="width:100%; border:none; border-collapse:collapse;">
+  <tr>
+    <td style="width:55%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
+      <h3><u>A dynamic embedding method for the real-time solution of time-varying constrained convex optimization problems</u></h3>
+      <br>
+      <b>M. Amiri</b>, I. Kolmanovsky, M. Hosseinzadeh
+      <br>
+      <i>Systems & Control Letters</i>, 2026
+      <br>
+      <a href="https://doi.org/10.1016/j.sysconle.2026.106352">[pdf]</a> / <a href="https://youtu.be/qGsw7iaElCI">[video]</a>
+      <br><br>
+      The proposed approach presents a method for solving time-varying constrained convex optimization problems in real time. The key idea is to embed the optimal solution within the internal state of a virtual dynamical system that evolves in parallel with the underlying optimization problem. 
+    </td>
+    <td style="width:45%; vertical-align:top; border:none; text-align:center;">
+      <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius:10px;">
+        <iframe src="https://www.youtube.com/embed/qGsw7iaElCI?si=MZl8qskdTns5xEGn" 
+                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+                frameborder="0" allowfullscreen></iframe>
+      </div>
+      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>Project Demonstration</i></p>
+    </td>
+  </tr>
+</table>
+
+---
