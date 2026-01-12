@@ -1,88 +1,165 @@
----
-permalink: /
-title: "Mohsen Amiri"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+/* ==========================================================================
+   Variables
+   ========================================================================== */
 
-<table style="width:100%; border:none; border-collapse:collapse;">
-  <tr>
-    <td style="width:65%; vertical-align:top; border:none; padding-right:25px; text-align: justify;">
-      I'm a PhD candidate in Mechanical Engineering at <a href="https://www.wsu.edu">Washington State University</a> and part of the <a href="https://labs.wsu.edu/siaslab/">SIAS Lab</a>, advised by <a href="https://mme.wsu.edu/mme-personnel/wsu-profile/mehdi.hosseinzadeh/">Dr. Mehdi Hosseinzadeh</a>. 
-      <br><br>
-      My academic journey focuses on developing control theories, implementing them on real robots, and exploring robot interactions with humans. I am particularly interested in leveraging tools from applied analysis and partial differential equations to address challenges in real-world autonomy, and validating these methods on hardware across various robotic platforms (e.g., mobile robots, quadrupeds, and drones). Recently, I have also been working on human-robot interaction challenges, focusing on the safety and efficiency of both the robot and the interaction itself.
-    </td>
-    <td style="width:35%; vertical-align:top; border:none; text-align:center;">
-      <img src="images/Hierarchical_Control_Structure.png" alt="Hierarchical Control Structure" style="width:100%; border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>Hierarchical Control Structure</i></p>
-    </td>
-  </tr>
-</table>
+/*
+   Typography
+   ========================================================================== */
 
----
+$doc-font-size              : 14;
 
-## News & Updates
-* **[Jan 2026]** Our paper on CERTIS was submitted to *IEEE Transactions on Automatic Control*.
-* **[Sept 2025]** Our work on Safe Robot Action Planning was accepted to the **2025 American Control Conference (ACC)**.
-* **[May 2025]** New publication in *Systems & Control Letters* regarding dynamic embedding methods.
+/* paragraph indention */
+$paragraph-indent           : false; // true, false (default)
+$indent-var                 : 1.3em;
 
----
+/* system typefaces */
+$serif                      : Georgia, Times, serif;
+$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
-## Research:
+/* sans serif typefaces */
+$sans-serif-narrow          : $sans-serif;
+$helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
 
-<table style="width:100%; border:none; border-collapse:collapse; margin-bottom: 20px;">
-  <tr>
-    <td style="width:65%; vertical-align:top; border:none; padding-right:25px; text-align: justify;">
-      <h3><u>Advancing Control Barrier Functions for Real-Time Complex Safety Specifications</u></h3>
-      <b>M. Amiri</b>, I. Kolmanovsky, M. Hosseinzadeh <br>
-      <i>IEEE (In progress)</i>, 2026 <br>
-      <a href="https://www.youtube.com/embed/FMyig44R5aM?si=TUoDww9-McNiuYdF">[video]</a>
-      <br><br>
-      We formulate the CLF-CBF-QP as a Dynamic Embedding problem, defining a virtual continuous-time system that tracks the suboptimal yet any time feasible control input in real-time. This rigorously guarantees safety, meaning constraints are satisfied at all times without the requirement of a Hessian. 
-    </td>
-    <td style="width:35%; vertical-align:top; border:none; text-align:center;">
-      <img src="images/Advancing Control Barrier Functions for Real-Time Complex Safety Specifications - Mohsen Amiri (720p, h264) (1).gif" alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
-      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>Project Demonstration</i></p>
-    </td>
-  </tr>
-</table>
+/* serif typefaces */
+$georgia                    : Georgia, serif;
+$times                      : Times, serif;
+$bodoni                     : "Bodoni MT", serif;
+$calisto                    : "Calisto MT", serif;
+$garamond                   : Garamond, serif;
 
----
+$global-font-family         : $sans-serif;
+$header-font-family         : $sans-serif;
+$caption-font-family        : $serif;
 
-<table style="width:100%; border:none; border-collapse:collapse; margin-bottom: 20px;">
-  <tr>
-    <td style="width:65%; vertical-align:top; border:none; padding-right:25px; text-align: justify;">
-      <h3><u>CERTIS: A Computationally Efficient MPC Framework</u></h3>
-      <b>M. Amiri</b>, I. Kolmanovsky, M. Hosseinzadeh <br>
-      <i>IEEE Transactions on Automatic Control (Under review)</i>, 2026 <br>
-      <a href="https://youtu.be/sPeUhQ82Mpc">[video]</a>
-      <br><br>
-      CERTIS enables the deployment of MPC in resource-constrained, safety-critical systems, where conventional MPC often fails due to computational limitations. It generates feasible and sub-optimal solutions even when computation time is insufficient.
-    </td>
-    <td style="width:35%; vertical-align:top; border:none; text-align:center;">
-      <img src="images/CERTIS A Computationally Efficient MPC Framework for Resource-Constrained Safety-Critical Systems - Mohsen Amiri (1080p, h264) (2).gif" alt="CERTIS Demo 2" style="width:100%; border-radius:10px;">
-      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>CERTIS Framework</i></p>
-    </td>
-  </tr>
-</table>
+/* type scale */
+$type-size-1                : 2.441em;  // ~39.056px
+$type-size-2                : 1.953em;  // ~31.248px
+$type-size-3                : 1.563em;  // ~25.008px
+$type-size-4                : 1.25em;   // ~20px
+$type-size-5                : 1em;      // ~16px
+$type-size-6                : 0.75em;   // ~12px
+$type-size-7                : 0.6875em; // ~11px
+$type-size-8                : 0.625em;  // ~10px
 
----
+/* masthead properties */
+$masthead-height            : 70px;
 
-<table style="width:100%; border:none; border-collapse:collapse; margin-bottom: 20px;">
-  <tr>
-    <td style="width:65%; vertical-align:top; border:none; padding-right:25px; text-align: justify;">
-      <h3><u>Safe and Efficient Robot Action Planning in the Presence of Unconcerned Humans</u></h3>
-      <b>M. Amiri</b>, M. Hosseinzadeh <br>
-      <i>IEEE American Control Conference (ACC)</i>, 2025 <br>
-      <a href="https://arxiv.org/pdf/2501.13203">[pdf]</a> / <a href="https://www.youtube.com/embed/9mFowiFrHF4?si=23QOl0gAbc1paJcQ">[video]</a>
-      <br><br>
-      This approach proposes a robot action planning scheme that provides an efficient and probabilistically safe plan for a robot interacting with an unconcerned human—someone who is either unaware of the robot's presence or unwilling to engage in ensuring safety. 
-    </td>
-    <td style="width:35%; vertical-align:top; border:none; text-align:center;">
-      <img src="images/Safe and Efficient Robot Action Planning in the Presence of Unconcerned Humans - Mohsen Amiri (1080p, h264).gif" alt="HRI Demo" style="width:100%; border-radius:10px;">
-      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>HRI Simulation</i></p>
-    </td>
-  </tr>
-</table>
+/* Sidebar properties */
+$sidebar-screen-min-width   : 1024px;
+$sidebar-link-max-width     : 250px;
+
+
+
+/*
+   Colors
+   ========================================================================== */
+
+$gray                       : #7a8288;
+$dark-gray                  : mix(#000, $gray, 40%);
+$darker-gray                : mix(#000, $gray, 60%);
+$light-gray                 : mix(#fff, $gray, 50%);
+$lighter-gray               : mix(#fff, $gray, 90%);
+
+$body-color                 : #fff;
+$background-color           : #fff;
+$code-background-color      : #fafafa;
+$code-background-color-dark : $light-gray;
+$text-color                 : $dark-gray;
+$border-color               : $lighter-gray;
+
+$primary-color              : #7a8288;
+$success-color              : #62c462;
+$warning-color              : #f89406;
+$danger-color               : #ee5f5b;
+$info-color                 : #52adc8;
+
+/* brands */
+$behance-color              : #1769FF;
+$bluesky-color              : #1184fe;
+$dribbble-color             : #ea4c89;
+$facebook-color             : #3b5998;
+$flickr-color               : #ff0084;
+$foursquare-color           : #0072b1;
+$github-color               : #171516;
+$google-plus-color          : #dd4b39;
+$instagram-color            : #517fa4;
+$kaggle-color               : #20c0ff;
+$lastfm-color               : #d51007;
+$linkedin-color             : #007bb6;
+$mastodon-color             : #6364ff;
+$orcid-color                : #a6ce39;
+$pinterest-color            : #cb2027;
+$rss-color                  : #fa9b39;
+$soundcloud-color           : #ff3300;
+$stackoverflow-color        : #fe7a15;
+$tumblr-color               : #32506d;
+$twitter-color              : #55acee;
+$vimeo-color                : #1ab7ea;
+$vine-color                 : #00bf8f;
+$youtube-color              : #bb0000;
+$xing-color                 : #006567;
+
+
+/* links */
+$link-color                 : $info-color;
+$link-color-hover           : mix(#000, $link-color, 25%);
+$link-color-visited         : mix(#fff, $link-color, 25%);
+$masthead-link-color        : $primary-color;
+$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+
+
+/*
+   Breakpoints
+   ========================================================================== */
+
+@include breakpoint-set("to ems", true);
+/*
+$small                      : 400px;
+$medium                     : 500px;
+$medium-wide                : 550px;
+$large                      : 1200px;
+$x-large                    : 1800px;
+*/
+
+$small                      : 600px !default;
+$medium                     : 768px !default;
+$medium-wide                : 900px !default;
+$large                      : 925px !default;
+$x-large                    : 1280px !default;
+
+/*
+   Grid
+   ========================================================================== */
+
+$right-sidebar-width-narrow : 0px;
+$right-sidebar-width        : 0px;
+$right-sidebar-width-wide   : 0px;
+
+$susy: (
+  columns: 12,
+  column-width: 120px,
+  gutters: 1/4,
+  math: fluid,
+  output: float,
+  gutter-position: after,
+  container: $large,
+  global-box-sizing: border-box,
+  // debug: (
+  //   image: show,
+  //   color: blue,
+  //   output: overlay,
+  //   toggle: top right,
+  // ),
+);
+
+
+/*
+   Other
+   ========================================================================== */
+
+$border-radius              : 4px;
+$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+$navicon-width              : 28px;
+$navicon-height             : 4px;
+$global-transition          : all 0.2s ease-in-out;
