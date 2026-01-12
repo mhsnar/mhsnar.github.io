@@ -61,9 +61,9 @@ redirect_from:
       <br>
       <i>IEEE Transactions on Automatic Control (Under review)</i>, 2026
       <br><br>
-      The proposed approach presents a method for solving time-varying constrained convex optimization problems in real time. The key idea is to embed the optimal solution within the internal state of a virtual dynamical system that evolves in parallel with the underlying optimization problem. 
+      Model Predictive Control (MPC) relies on online optimization that introduces implementation challenges, particularly for systems with limited computing resources or fast dynamics\textemdash thereby, limiting MPC's applicability in many real-world scenarios. This method addresses these limitations by proposing a Computationally Efficient model pRedicTIve control Strategy (CERTIS).
       <br><br>
-      This system tracks the optimal solution with a tunable bound and remains feasible at all times, even without prior knowledge of function dynamics.
+       A key feature of CERTIS is its ability to generate feasible and sub-optimal solutions even when the available computation time is insufficient to fully solve the MPC-related optimization problem. 
     </td>
     <td style="width:50%; vertical-align:top; border:none; text-align:center;">
       <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius:10px;">
