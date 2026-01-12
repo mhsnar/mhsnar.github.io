@@ -62,7 +62,7 @@ redirect_from:
       <br>
       [pdf] / <a href="https://youtu.be/sPeUhQ82Mpc">[video]</a>
       <br><br>
-      Model Predictive Control (MPC) relies on online optimization that introduces implementation challenges, particularly for systems with limited computing resources or fast dynamics—thereby limiting MPC's applicability in many real-world scenarios. 
+      CERTIS enables the deployment of MPC in resource-constrained, safety-critical systems, where conventional MPC often fails due to computational limitations. A key feature of CERTIS is its ability to generate feasible and sub-optimal solutions even when the available computation time is insufficient to fully solve the MPC-related optimization problem. 
     </td>
     <td style="width:45%; vertical-align:top; border:none; text-align:center;">
       <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius:10px;">
