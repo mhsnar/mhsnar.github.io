@@ -95,6 +95,30 @@ redirect_from:
   </tr>
 </table>
 
+
+---
+<table style="width:100%; border:none; border-collapse:collapse;">
+  <tr>
+    <td style="width:55%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
+      <h3><u>A dynamic embedding method for the real-time solution of time-varying constrained convex optimization problems</u></h3>
+      <br>
+      K, Yazdipaz, <b>M. Amiri</b>, M. Hosseinzadeh
+      <br>
+      <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>, 2026
+      <br>
+      <a href="https://www.youtube.com/embed/KwFSXbixrdw?si=JkrK1m7DIU7bFAxD">[video]</a>
+      <br><br>
+      The proposed action planner update the robot’s belief about human cooperation by fusing two latent attributes: Perceptual Awareness (inferred from head pose and gestures) and Navigational Responsiveness (inferred from trajectory adaptations). The framework dynamically weights these attributes based on the interaction phase to address behavioral uncertainty.
+   
+</td>
+    <td style="width:45%; vertical-align:top; border:none; text-align:center;">
+      <img src="images/ProbabilisticSafeVision-LanguagePlanningforHumanRobotInteraction-MohsenAmiri1080ph264-ezgif.com-crop.gif" alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
+      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i> VLM based human awareness detection.</i></p>
+    </td>
+  </tr>
+</table>
+
+
 ---
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
