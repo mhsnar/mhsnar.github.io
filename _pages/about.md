@@ -62,7 +62,7 @@ redirect_from:
       <br>
       <i>IEEE Transactions on Automatic Control (Under review)</i>, 2026
       <br>
-      </a> / <a href="https://youtu.be/qGsw7iaElCI">[video]</a>
+      </a> / <a href="https://www.youtube.com/embed/sPeUhQ82Mpc?si=YlXA4fD86Owv7tMb">[video]</a>
       <br><br>
       Model Predictive Control (MPC) relies on online optimization that introduces implementation challenges, particularly for systems with limited computing resources or fast dynamics—thereby limiting MPC's applicability in many real-world scenarios. This method addresses these limitations by proposing a Computationally Efficient model pRedicTIve control Strategy (CERTIS).
       <br><br>
