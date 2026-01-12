@@ -14,9 +14,7 @@ redirect_from:
       <br><br>
       My academic journey focuses on developing control theories, implementing them on real robots, and exploring robot interactions with humans. I am particularly interested in leveraging tools from applied analysis and partial differential equations to address challenges in real-world autonomy, and validating these methods on hardware across various robotic platforms (e.g., mobile robots, quadrupeds, and drones).Recently, I have also been working on human-robot interaction challenges, focusing on the safety and efficiency of both the robot and the interaction itself.
     </td>
-    <td style="width:45%; vertical-align:top; border:none; text-align:center;">
-      <img src="images/Hierarchical_Control_Structure.png" alt="Welcome Image" style="width:100%; border-radius:10px;">
-      <p style="font-size:0.8em; color:grey;"><i>Hierarchical Control Structure</i></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qGsw7iaElCI?si=MZl8qskdTns5xEGn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </td>
   </tr>
 </table>
