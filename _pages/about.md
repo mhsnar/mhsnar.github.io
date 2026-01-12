@@ -144,12 +144,12 @@ redirect_from:
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
     <td style="width:55%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
-      <h3><u>REAP-T: Practical considerations for implementing robust-to-early termina-
+      <h3><u>Practical considerations for implementing robust-to-early termina-
 tion model predictive control</u></h3>
       <br>
       <b>M. Amiri</b>, M. Hosseinzadeh
       <br>
-      <i>Systems & Control Letters, (MECC)</i>, 2025
+      <i>Systems & Control Letters</i>, 2025
       <br>
       <a href="https://doi.org/10.1016/j.sysconle.2024.106018">[pdf]</a> 
       <br><br>
