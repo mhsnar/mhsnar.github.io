@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Mohsen**, a researcher and PhD candidate in Mechanical Engineering at [Washington State University](https://www.wsu.edu) and part of the [SIAS Lab](https://labs.wsu.edu/siaslab/), advised by Dr. Mehdi Hosseinzadeh. My academic journey focuses on developing control theories, implementing them on real robots, and exploring robot interactions with humans.   
+I'm **Mohsen**, a researcher and PhD candidate in Mechanical Engineering at [Washington State University](https://www.wsu.edu) and part of the [SIAS Lab](https://labs.wsu.edu/siaslab/), advised by [Dr. Mehdi Hosseinzadeh](https://mme.wsu.edu/mme-personnel/wsu-profile/mehdi.hosseinzadeh/). My academic journey focuses on developing control theories, implementing them on real robots, and exploring robot interactions with humans.   
 Here, you'll find an overview of my professional and academic endeavors. This includes my ongoing research projects, publications, academic courses, and personal insights.
 
 <img src="images/Hierarchical_Control_Structure.png" alt="Welcome Image" style="width:75%;">
