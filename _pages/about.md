@@ -27,7 +27,7 @@ redirect_from:
 
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
-    <td style="width:50%; vertical-align:top; border:none; padding-right:20px;">
+    <td style="width:55%; vertical-align:top; border:none; padding-right:20px;">
       <h3>A dynamic embedding method for the real-time solution of time-varying constrained convex optimization problems</h3>
       <br>
       <b>M. Amiri</b>, I. Kolmanovsky, M. Hosseinzadeh
@@ -38,7 +38,7 @@ redirect_from:
       <br><br>
       This system tracks the optimal solution with a tunable bound and remains feasible at all times, even without prior knowledge of function dynamics.
     </td>
-    <td style="width:50%; vertical-align:top; border:none; text-align:center;">
+    <td style="width:45%; vertical-align:top; border:none; text-align:center;">
       <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius:10px;">
         <iframe src="https://www.youtube.com/embed/qGsw7iaElCI?si=MZl8qskdTns5xEGn" 
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
@@ -54,7 +54,7 @@ redirect_from:
 
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
-    <td style="width:50%; vertical-align:top; border:none; padding-right:20px;">
+    <td style="width:55%; vertical-align:top; border:none; padding-right:20px;">
       <h3>CERTIS: A Computationally Efficient Model Predictive Control Framework for Resource-Constrained Safety-Critical Systems</h3>
       <br>
       <b>M. Amiri</b>, I. Kolmanovsky, M. Hosseinzadeh
@@ -65,7 +65,7 @@ redirect_from:
       <br><br>
        A key feature of CERTIS is its ability to generate feasible and sub-optimal solutions even when the available computation time is insufficient to fully solve the MPC-related optimization problem. 
     </td>
-    <td style="width:50%; vertical-align:top; border:none; text-align:center;">
+    <td style="width:45%; vertical-align:top; border:none; text-align:center;">
       <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius:10px;">
         <iframe src="https://www.youtube.com/embed/qGsw7iaElCI?si=MZl8qskdTns5xEGn"
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
