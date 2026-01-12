@@ -143,6 +143,24 @@ $susy: (
    Other
    ========================================================================== */
 
+/* ==========================================================================
+   FORCE FULL WIDTH OVERRIDE
+   ========================================================================== */
+
+.archive, .page, .single {
+  @include breakpoint($large) {
+    width: 100% !important;
+    max-width: 1400px !important; /* This controls the total width */
+    padding-right: 40px;
+  }
+}
+
+#main {
+  max-width: 1400px !important; /* Ensures the main container expands */
+  margin-left: auto;
+  margin-right: auto;
+}
+
 $border-radius              : 4px;
 $box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
 $navicon-width              : 28px;
