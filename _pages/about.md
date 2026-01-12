@@ -112,13 +112,10 @@ redirect_from:
       <a href="https://doi.org/10.1016/j.sysconle.2026.106352">[pdf]</a> / <a href="https://youtu.be/qGsw7iaElCI">[video]</a>
       <br><br>
       The proposed approach presents a method for solving time-varying constrained convex optimization problems in real time. The key idea is to embed the optimal solution within the internal state of a virtual dynamical system that evolves in parallel with the underlying optimization problem. 
-    </td>
+   
+</td>
     <td style="width:45%; vertical-align:top; border:none; text-align:center;">
-      <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius:10px;">
-        <img src="images/ADynamicEmbeddingMethodforReal-TimeSolutionofTime-VaryingConstrainedConvexOptimization-MohsenAmiri720ph264-ezgif.com-crop.gif" alt="Hierarchical Control Structure" 
-                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-                frameborder="0" allowfullscreen></iframe>
-      </div>
+      <img src="images/ADynamicEmbeddingMethodforReal-TimeSolutionofTime-VaryingConstrainedConvexOptimization-MohsenAmiri720ph264-ezgif.com-crop.gif" alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
       <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>Project Demonstration</i></p>
     </td>
   </tr>
