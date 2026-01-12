@@ -28,7 +28,7 @@ redirect_from:
 
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
-    <td style="width:55%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
+    <td style="width:50%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
       <h3><u>Advancing Control Barrier Functions for Real-Time Complex Safety Specifications</u></h3>
       <br>
       <b>M. Amiri</b>, I. Kolmanovsky, M. Hosseinzadeh
@@ -40,7 +40,7 @@ redirect_from:
       We formulate the CLF-CBF-QP as a Dynamic Embedding problem, defining a virtual continuous-time system that tracks the suboptimal yet any time feasible control input  in real-time. This rigorously guarantees the safety meaning that the constraints are satisfied at all times without any requirement of hessian. 
   
 </td>
-    <td style="width:45%; vertical-align:top; border:none; text-align:center;">
+    <td style="width:50%; vertical-align:top; border:none; text-align:center;">
       <img src="images/Advancing Control Barrier Functions for Real-Time Complex Safety Specifications - Mohsen Amiri (720p, h264) (1).gif" alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
       <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>Project Demonstration</i></p>
     </td>
@@ -76,7 +76,7 @@ redirect_from:
 
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
-    <td style="width:55%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
+    <td style="width:50%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
       <h3><u>Safe and Efficient Robot Action Planning in the Presence of Unconcerned Humans</u></h3>
       <br>
       <b>M. Amiri</b>, M. Hosseinzadeh
@@ -88,7 +88,7 @@ redirect_from:
       This approach proposes a robot action planning scheme that provides an efficient and probabilistically safe plan for a robot interacting with an unconcerned human—someone who is either unaware of the robot's presence or unwilling to engage in ensuring safety. 
    
 </td>
-    <td style="width:45%; vertical-align:top; border:none; text-align:center;">
+    <td style="width:50%; vertical-align:top; border:none; text-align:center;">
       <img src="images/Safe and Efficient Robot Action Planning in the Presence of Unconcerned Humans - Mohsen Amiri (1080p, h264).gif " alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
       <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>Project Demonstration</i></p>
     </td>
