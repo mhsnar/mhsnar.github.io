@@ -67,7 +67,7 @@ redirect_from:
     </td>
     <td style="width:45%; vertical-align:top; border:none; text-align:center;">
       <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius:10px;">
-        <iframe src="https://www.youtube.com/embed/qGsw7iaElCI?si=MZl8qskdTns5xEGn"
+        <iframe src="https://youtu.be/sPeUhQ82Mpc?si=YlXA4fD86Owv7tMb"
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
                 frameborder="0" allowfullscreen></iframe>
       </div>
