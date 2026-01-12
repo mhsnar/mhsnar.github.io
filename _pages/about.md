@@ -173,7 +173,7 @@ tion model predictive control</u></h3>
       <br>
       <i>Modeling, Estimation and Control Conference (MECC)</i>, 2024
       <br>
-      <a href="https://doi.org/10.1016/j.ifacol.2025.01.016">[pdf]</a> / <a href="https://doi.org/10.1109/LCSYS.2024.3370266">[pdf]</a> / <a href="https://github.com/mhsnar/REAP-T">[Video]
+      <a href="https://doi.org/10.1016/j.ifacol.2025.01.016">[pdf]</a> / <a href="https://doi.org/10.1109/LCSYS.2024.3370266">[pdf]</a> / <a href="https://github.com/mhsnar/REAP-T">[Video]</a>
       <br><br>
       First, this approach presents a comprehensive procedure for deriving a linear yet efficient model to describe the dynamics of quadrotors, thereby reducing complexity without compromising efficiency. Then, we develops a steady-state-aware Model Predictive Control (MPC) to effectively navigate quadcopters, while guaranteeing constraint satisfaction at all times. The main advantage of the steady-state-aware MPC is its low computational complexity, which makes it an appropriate choice for systems with limited computing capacity, like quadcopters. We consider Parrot Bebop 2 as the running example, and experimentally validates and evaluates the proposed algorithms.
    
