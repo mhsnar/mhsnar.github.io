@@ -224,7 +224,10 @@ tion model predictive control</u></h3>
       We developed a steady-state-aware MPC that guarantees tracking of piecewise constant references and satisfaction of constraints, without requiring the desired admissible steady-state configuration and without adding extra computational load. Stability, recursive feasibility, and local infinite-horizon optimality of the proposed MPC are proven analytically. 
    
 </td>
-    
+     <td style="width:50%; vertical-align:top; border:none; text-align:center;">
+      <img src="images/Screenshot 2026-01-12 135217.png" alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
+      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>Project Demonstration</i></p>
+    </td>
   </tr>
 </table>
 
