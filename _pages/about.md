@@ -163,5 +163,27 @@ tion model predictive control</u></h3>
   </tr>
 </table>
 
+---
+<table style="width:100%; border:none; border-collapse:collapse;">
+  <tr>
+    <td style="width:55%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
+      <h3><u>Closed-Loop Model Identification and MPC-based Navigation of Quadcopters: A Case Study of Parrot Bebop 2</u></h3>
+      <br>
+      <b>M. Amiri</b>, M. Hosseinzadeh
+      <br>
+      <i>Modeling, Estimation and Control Conference (MECC)</i>, 2024
+      <br>
+      <a href="https://doi.org/10.1016/j.ifacol.2025.01.016">[pdf]</a> / <a href="https://doi.org/10.1109/LCSYS.2024.3370266">[pdf]</a> / <a href="https://github.com/mhsnar/REAP-T">[Video]
+      <br><br>
+      First, this approach presents a comprehensive procedure for deriving a linear yet efficient model to describe the dynamics of quadrotors, thereby reducing complexity without compromising efficiency. Then, we develops a steady-state-aware Model Predictive Control (MPC) to effectively navigate quadcopters, while guaranteeing constraint satisfaction at all times. The main advantage of the steady-state-aware MPC is its low computational complexity, which makes it an appropriate choice for systems with limited computing capacity, like quadcopters. We consider Parrot Bebop 2 as the running example, and experimentally validates and evaluates the proposed algorithms.
+   
+</td>
+    <td style="width:45%; vertical-align:top; border:none; text-align:center;">
+      <img src="images/CERTIS A Computationally Efficient MPC Framework for Resource-Constrained Safety-Critical Systems - Mohsen Amiri (1080p, h264) (1) (1).gif" alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
+      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>Project Demonstration</i></p>
+    </td>
+  </tr>
+</table>
+
 
 
