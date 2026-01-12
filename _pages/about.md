@@ -62,7 +62,7 @@ redirect_from:
       <br>
        / <a href="https://www.youtube.com/embed/sPeUhQ82Mpc?si=YlXA4fD86Owv7tMb">[video]</a>
       <br><br>
-      Model Predictive Control (MPC) relies on online optimization that introduces implementation challenges, particularly for systems with limited computing resources or fast dynamics—thereby limiting MPC's applicability in many real-world scenarios. This method addresses these limitations by proposing a Computationally Efficient model pRedicTIve control Strategy (CERTIS).
+      Model Predictive Control (MPC) relies on online optimization that introduces implementation challenges, particularly for systems with limited computing resources or fast dynamics—thereby limiting MPC's applicability in many real-world scenarios. 
     </td>
     <td style="width:45%; vertical-align:top; border:none; text-align:center;">
       <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius:10px;">
