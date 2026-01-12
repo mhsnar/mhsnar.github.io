@@ -84,7 +84,7 @@ redirect_from:
       <br>
       <b>M. Amiri</b>, M. Hosseinzadeh
       <br>
-      <i>IEEE American Control Conference (ACC)</i>, 2026
+      <i>IEEE American Control Conference (ACC)</i>, 2025
       <br>
        / <a href="https://www.youtube.com/embed/G5T776pCAQI?si=F-PyFT7xKWvWAVnn">[video]</a>
       <br><br>
