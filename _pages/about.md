@@ -34,7 +34,7 @@ redirect_from:
   <br>
   Systems & Control Letters, 2026
   <br>
-  
+  The proposed approached presents a method for solving time-varying constrained convex optimization problems in real time. The key idea is to embed the optimal solution within the internal state of a virtual dynamical system that evolves in parallel with the underlying optimization problem. This system is designed such that its trajectory tracks the optimal solution with a tunable, analytically-computable bound and remains feasible with respect to the problem constraints at all times, without requiring prior knowledge of the dynamics of either the cost function or the constraints. Moreover, when the cost function and constraints are time-invariant, the proposed method guarantees exponential convergence to the optimal solution. The effectiveness of the proposed approach is demonstrated through two numerical examples: (i) a multi-agent tracking scenario; and (ii) a collision-free robot navigation task.
     </td>
     <td style="width:45%; vertical-align:top; border:none; text-align:center;">
       <img src="images/Hierarchical_Control_Structure.png" alt="Welcome Image" style="width:100%; border-radius:10px;">
