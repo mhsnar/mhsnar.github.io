@@ -159,7 +159,7 @@ redirect_from:
 </td>
     <td style="width:45%; vertical-align:top; border:none; text-align:center;">
       <img src="images/REAP.gif" alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
-      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>Project Demonstration</i></p>
+      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>Overview of the Toolbox</i></p>
     </td>
   </tr>
 </table>
@@ -182,7 +182,7 @@ tion model predictive control</u></h3>
 </td>
     <td style="width:45%; vertical-align:top; border:none; text-align:center;">
       <img src="images/CERTISAComputationallyEfficientMPCFrameworkforResource-ConstrainedSafety-CriticalSystems-MohsenAmiri1080ph26411-ezgif.com-cut (1).gif" alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
-      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>Project Demonstration</i></p>
+      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>Drone Hovering</i></p>
     </td>
   </tr>
 </table>
