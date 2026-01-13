@@ -41,7 +41,7 @@ redirect_from:
   
 </td>
     <td style="width:50%; vertical-align:top; border:none; text-align:center;">
-      <img src="images/AdvancingControlBarrierFunctionsforReal-TimeComplexSafetySpecifications-MohsenAmiri720ph264-ezgif.com-video-to-gif-converter.gif" alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
+      <img src="images/AdvancingControlBarrierFunctionsforReal-TimeComplexSafetySpecifications-MohsenAmiri720ph264-ezgif.com-cut.gif" alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
       <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>Navigation in complex environment</i></p>
     </td>
   </tr>
