@@ -100,7 +100,7 @@ redirect_from:
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
     <td style="width:55%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
-      <h3><u>A dynamic embedding method for the real-time solution of time-varying constrained convex optimization problems</u></h3>
+      <h3><u>Safe Robot Action Planning under Human Behavioral Uncertainty with Probabilistic and Vision–Language Reasoning </u></h3>
       <br>
       K, Yazdipaz, <b>M. Amiri</b>, M. Hosseinzadeh
       <br>
