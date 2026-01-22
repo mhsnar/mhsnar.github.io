@@ -112,7 +112,7 @@ redirect_from:
    
 </td>
     <td style="width:45%; vertical-align:top; border:none; text-align:center;">
-      <img src="images/ProbabilisticSafeVision-LanguagePlanningforHumanRobotInteraction-MohsenAmiri1080ph264-ezgif.com-crop.gif" alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
+      <img src="images/Cooperative Human Aware and Responsive.gif" alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
       <p style="font-size:0.8em; color:grey; margin-top:10px;"><i> VLM based human awareness detection.</i></p>
     </td>
   </tr>
