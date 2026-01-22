@@ -51,7 +51,7 @@ redirect_from:
 
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
-    <td style="width:55%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
+    <td style="width:50%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
       <h3><u>Safe Robot Action Planning under Human Behavioral Uncertainty with Probabilistic and Vision–Language Reasoning </u></h3>
       <br>
       K, Yazdipaz, <b>M. Amiri</b>, M. Hosseinzadeh
@@ -63,7 +63,7 @@ redirect_from:
       The proposed action planner update the robot’s belief about human cooperation by fusing two latent attributes: Perceptual Awareness (inferred from head pose and gestures) and Navigational Responsiveness (inferred from trajectory adaptations). The framework dynamically weights these attributes based on the interaction phase to address behavioral uncertainty.
    
 </td>
-    <td style="width:45%; vertical-align:top; border:none; text-align:center;">
+    <td style="width:50%; vertical-align:top; border:none; text-align:center;">
       <img src="images/Cooperative Human Aware and Responsive.gif" alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
       <p style="font-size:0.8em; color:grey; margin-top:10px;"><i> VLM based human awareness detection.</i></p>
     </td>
