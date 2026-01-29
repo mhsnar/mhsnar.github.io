@@ -122,7 +122,7 @@ redirect_from:
 ---
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
-    <td style="width:55%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
+    <td style="width:50%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
       <h3><u>A dynamic embedding method for the real-time solution of time-varying constrained convex optimization problems</u></h3>
       <br>
       <b>M. Amiri</b>, I. Kolmanovsky, M. Hosseinzadeh
@@ -134,7 +134,7 @@ redirect_from:
       The proposed approach presents a method for solving time-varying constrained convex optimization problems in real time. The key idea is to embed the optimal solution within the internal state of a virtual dynamical system that evolves in parallel with the underlying optimization problem. 
    
 </td>
-    <td style="width:45%; vertical-align:top; border:none; text-align:center;">
+    <td style="width:50%; vertical-align:top; border:none; text-align:center;">
       <img src="images/videoplayback.gif" alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
       <p style="font-size:0.8em; color:grey; margin-top:10px;"><i> Motion trajectory of the robot, illustrating that it closely follows the desired trajectory while avoiding obstacles.</i></p>
     </td>
