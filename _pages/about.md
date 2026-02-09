@@ -58,14 +58,14 @@ redirect_from:
       <br>
       <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (In progress)</i>, 2026
       <br>
-      <a href="https://www.youtube.com/embed/KwFSXbixrdw?si=JkrK1m7DIU7bFAxD">[video]</a>
+      <a href="https://www.youtube.com/embed/g0OT-_c3K9Y?si=TnsMI1Sx9w_7QzYI">[video]</a>
       <br><br>
       The proposed action planner update the robot’s belief about human cooperation by fusing two latent attributes: Perceptual Awareness (inferred from head pose and gestures) and Navigational Responsiveness (inferred from trajectory adaptations). The framework dynamically weights these attributes based on the interaction phase to address behavioral uncertainty.
    
 </td>
     <td style="width:50%; vertical-align:top; border:none; text-align:center;">
       <img src="images/Cooperative Human Aware and Responsive (4) (1).gif" alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
-      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i> Experimental data; CASE I: Aware/Responsive,CASE II: Aware/unresponsive,CASE III: Unaware/unresponsive,CASE IV: Initially Unaware/Responsive.</i></p>
+      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i> Experimental data; CASE I: Aware/Responsive, CASE II: Unaware/unresponsive, CASE III: Aware/unresponsive,CASE IV: Initially Unaware/Responsive.</i></p>
     </td>
   </tr>
 </table>
