@@ -199,7 +199,7 @@ tion model predictive control</u></h3>
       <br>
       <a href="https://doi.org/10.1016/j.ifacol.2025.01.016">[pdf]</a> / <a href="https://github.com/mhsnar/Closed-loop-Identification">[Github]</a>
       <br><br>
-      This approach introduces a linear, efficient quadrotor model that reduces complexity while maintaining performance. We developed a steady-state-aware Model Predictive Control (MPC) that ensures constant constraint satisfaction with low computational overhead, ideal for resource-constrained platforms. The proposed algorithms were experimentally validated and evaluated using the Parrot Bebop 2.
+      This approach introduces a linear, efficient quadrotor model that reduces complexity while maintaining performance. We developed a steady-state-aware Model Predictive Control (MPC) that ensures constraint satisfaction with low computational overhead, ideal for resource-constrained platforms. The proposed algorithms were experimentally validated and evaluated using the Parrot Bebop 2.
    
 </td>
     <td style="width:50%; vertical-align:top; border:none; text-align:center;">
