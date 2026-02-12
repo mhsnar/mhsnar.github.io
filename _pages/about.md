@@ -88,7 +88,13 @@ redirect_from:
       <br>
       <a href="https://www.youtube.com/embed/ueBRUHRm1xo?si=4I54wQ9IPWqG52-a">[video]</a>
       <br><br>
-      The proposed action planner update the robot’s belief about human cooperation by fusing two latent attributes: Perceptual Awareness (inferred from head pose and gestures) and Navigational Responsiveness (inferred from trajectory adaptations). The framework dynamically weights these attributes based on the interaction phase to address behavioral uncertainty.
+      The proposed method addresses the challenge of autonomous vehicle (AV) navigation in adversarial scenarios where Human-
+Driven Vehicles (HDVs) may exhibit non-cooperative or unaware
+behaviors, such as forced cut-ins and right-of-way violations. We
+propose a game-theoretic planner based on the Level-k reasoning
+framework to distinguish between adversarial agents (Level-
+0) and strategically aware agents (Level-1). By incorporating
+behavior-driven danger signaling and a recurs.
    
 </td>
     <td style="width:50%; vertical-align:top; border:none; text-align:center;">
