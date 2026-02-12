@@ -88,13 +88,10 @@ redirect_from:
       <br>
       <a href="https://www.youtube.com/embed/ueBRUHRm1xo?si=4I54wQ9IPWqG52-a">[video]</a>
       <br><br>
-      The proposed method addresses the challenge of autonomous vehicle (AV) navigation in adversarial scenarios where Human-
-Driven Vehicles (HDVs) may exhibit non-cooperative or unaware
+      The proposed method addresses the challenge of autonomous vehicle (AV) navigation in adversarial scenarios where Human-Driven Vehicles (HDVs) may exhibit non-cooperative or unaware
 behaviors, such as forced cut-ins and right-of-way violations. We
 propose a game-theoretic planner based on the Level-k reasoning
-framework to distinguish between adversarial agents (Level-
-0) and strategically aware agents (Level-1). By incorporating
-behavior-driven danger signaling and a recurs.
+framework to distinguish between adversarial agents (Level-0) and strategically aware agents (Level-1). By incorporating behavior-driven danger signaling and a recursive Bayesian belief update, the AV can dynamically adapt its trajectory and signaling strategy to ensure safety and efficiency in complex, non-cooperative road interactions. 
    
 </td>
     <td style="width:50%; vertical-align:top; border:none; text-align:center;">
