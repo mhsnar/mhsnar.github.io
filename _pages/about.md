@@ -74,6 +74,33 @@ redirect_from:
 
 ---
 
+
+
+
+<table style="width:100%; border:none; border-collapse:collapse;">
+  <tr>
+    <td style="width:50%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
+      <h3><u>Action Planning for Autonomous Vehicles with Hierarchical Reasoning in Adversarial Traffic Interactions </u></h3>
+      <br>
+      <b>M. Amiri</b>, K, Yazdipaz, M. Hosseinzadeh
+      <br>
+      <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (Submitted)</i>, 2026
+      <br>
+      <a href="https://www.youtube.com/embed/ueBRUHRm1xo?si=4I54wQ9IPWqG52-a">[video]</a>
+      <br><br>
+      The proposed action planner update the robot’s belief about human cooperation by fusing two latent attributes: Perceptual Awareness (inferred from head pose and gestures) and Navigational Responsiveness (inferred from trajectory adaptations). The framework dynamically weights these attributes based on the interaction phase to address behavioral uncertainty.
+   
+</td>
+    <td style="width:50%; vertical-align:top; border:none; text-align:center;">
+      <img src="images/Cooperative Human Aware and Responsive (4) (1).gif" alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
+      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i> Experimental data; CASE I: Aware/Responsive, CASE II: Unaware/unresponsive, CASE III: Aware/unresponsive,CASE IV: Initially Unaware/Responsive.</i></p>
+    </td>
+  </tr>
+</table>
+
+
+
+---
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
     <td style="width:55%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
