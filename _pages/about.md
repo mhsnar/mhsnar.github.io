@@ -71,7 +71,7 @@ framework to distinguish between adversarial agents (Level-0) and strategically 
 </td>
     <td style="width:50%; vertical-align:top; border:none; text-align:center;">
       <img src="images/IROSA2026.gif" alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
-      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i> Experimental data; CASE I: HDV:=level 0 and AV:=level 1.</i></p>
+      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i> Experimental data; Case a/b/c.3: Awareness Update.</i></p>
     </td>
   </tr>
 </table>
