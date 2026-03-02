@@ -61,7 +61,7 @@ redirect_from:
       <br>
       <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (Submitted)</i>, 2026
       <br>
-      <a href="https://www.youtube.com/embed/_B47zfspne0?si=aNdDHvN1w-S6fUKK">[video]</a>
+      <a href="https://www.youtube.com/embed/d40n6mHTtL8?si=h75v2tajXTtHBcn5">[video]</a>
       <br><br>
       The proposed method addresses the challenge of autonomous vehicle (AV) navigation in adversarial scenarios where Human-Driven Vehicles (HDVs) may exhibit non-cooperative or unaware
 behaviors, such as forced cut-ins and right-of-way violations. We
