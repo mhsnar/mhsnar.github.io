@@ -30,7 +30,7 @@ redirect_from:
     <td style="width:50%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
       <h3><u>PriPG-RL: Privileged Planner-Guided Reinforcement Learning for Partially Observable Systems with Anytime Feasible MPC</u></h3>
       <br>
-      <b>Mohsen Amiri</b>, Mohsen Amiri, Ali Beikmohammadi1, Sindri Magnu´sson1, and Mehdi Hosseinzadeh
+      Mohsen Amiri, <b>Mohsen Amiri</b>, Ali Beikmohammadi1, Sindri Magnu´sson1, and Mehdi Hosseinzadeh
       <br>
       <i>The 65th IEEE Conference on Decision and Control (CDC) (Under Review)</i>, 2026
       <br>
