@@ -25,6 +25,30 @@ redirect_from:
 
 ## Research:
 
+<table style="width:100%; border:none; border-collapse:collapse;">
+  <tr>
+    <td style="width:50%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
+      <h3><u>PriPG-RL: Privileged Planner-Guided Reinforcement Learning for Partially Observable Systems with Anytime Feasible MPC</u></h3>
+      <br>
+      <b>Mohsen Amiri</b>, Mohsen Amiri, Ali Beikmohammadi1, Sindri Magnu´sson1, and Mehdi Hosseinzadeh
+      <br>
+      <i>IEEE (In progress)</i>, 2026
+      <br>
+       <a href="https://https://www.youtube.com/embed/vlBaWXeQngw?si=tZIkYQ49zPAmqfKW">[video]</a>
+      <br><br> This paper addresses the problem of training a reinforcement learning (RL) policy under partial observabil-
+ity by exploiting a privileged, anytime-feasible planner agent available exclusively during training. We formalize this as a
+Partially Observable Markov Decision Process (POMDP) in which a planner agent with access to an approximate dynamical
+model and privileged state information guides a learning agent that observes only a lossy projection of the true state.
+  
+</td>
+    <td style="width:50%; vertical-align:top; border:none; text-align:center;">
+      <img src="images/AdvancingControlBarrierFunctionsforReal-TimeComplexSafetySpecifications-MohsenAmiri720ph264-ezgif.com-cut.gif" alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
+      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>Navigation in complex environment</i></p>
+    </td>
+  </tr>
+</table>
+
+---
 
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
