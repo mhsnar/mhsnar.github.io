@@ -60,7 +60,7 @@ the planner agent’s privileged knowledge to mitigate partial observability and
       <br>
       <b>M. Amiri</b>, K, Yazdipaz, M. Hosseinzadeh
       <br>
-      <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (Submitted)</i>, 2026
+      <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (Under Review)</i>, 2026
       <br>
       <a href="https://www.youtube.com/embed/d40n6mHTtL8?si=h75v2tajXTtHBcn5">[video]</a>
       <br><br>
@@ -86,7 +86,7 @@ framework to distinguish between adversarial agents (Level-0) and strategically 
       <br>
       K, Yazdipaz, <b>M. Amiri</b>, M. Hosseinzadeh
       <br>
-      <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (Submitted)</i>, 2026
+      <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (Under Review)</i>, 2026
       <br>
       <a href="https://www.youtube.com/embed/g0OT-_c3K9Y?si=TnsMI1Sx9w_7QzYI">[video]</a>
       <br><br>
