@@ -34,7 +34,7 @@ redirect_from:
       <br>
       <i>The 65th IEEE Conference on Decision and Control (CDC) (Under Review)</i>, 2026
       <br>
-       <a href="https://www.youtube.com/embed/10BG7_1suG8?si=ClGzlxgPMgxAvfhW">[video]</a>
+       <a href="https://www.youtube.com/embed/syZmWy7UJe0?si=3e1fC_3dRHls2K3N">[video]</a>
       <br><br>  The proposed method addresses the problem of training a reinforcement learning (RL) policy under partial observabil-
 ity by exploiting a privileged, anytime-feasible planner agent available exclusively during training. We formalize this as a
 Partially Observable Markov Decision Process (POMDP) in which a planner agent with access to an approximate dynamical
