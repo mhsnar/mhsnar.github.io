@@ -36,9 +36,8 @@ redirect_from:
       <br>
        <a href="https://www.youtube.com/embed/syZmWy7UJe0?si=3e1fC_3dRHls2K3N">[video]</a>
       <br><br>  The proposed method addresses the problem of training a reinforcement learning (RL) policy under partial observabil-
-ity by exploiting a privileged, anytime-feasible planner agent available exclusively during training. We formalize this as a
-Partially Observable Markov Decision Process (POMDP) in which a planner agent with access to an approximate dynamical
-model and privileged state information guides a learning agent that observes only a lossy projection of the true state.
+ity by exploiting a privileged, anytime-feasible planner agent available exclusively during training. We propose Planner-to-Policy Soft Actor-Critic (P2P-SAC), a method that distills
+the planner agent’s privileged knowledge to mitigate partial observability and thereby improve both sample efficiency and final policy performance.
   
 </td>
     <td style="width:50%; vertical-align:top; border:none; text-align:center;">
