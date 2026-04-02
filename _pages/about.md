@@ -42,7 +42,7 @@ model and privileged state information guides a learning agent that observes onl
   
 </td>
     <td style="width:50%; vertical-align:top; border:none; text-align:center;">
-      <img src="images/Your paragraph text (2).gif" alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
+      <img src="images/Copy of Copy of Your paragraph text.gif" alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
       
     </td>
   </tr>
