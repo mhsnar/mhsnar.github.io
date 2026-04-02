@@ -82,28 +82,6 @@ framework to distinguish between adversarial agents (Level-0) and strategically 
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
     <td style="width:50%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
-      <h3><u>Advancing Control Barrier Functions for Real-Time Complex Safety Specifications</u></h3>
-      <br>
-      <b>M. Amiri</b>, I. Kolmanovsky, M. Hosseinzadeh
-      <br>
-      <i>IEEE (In progress)</i>, 2026
-      <br>
-       <a href="https://www.youtube.com/embed/xEyfdV-u8Zs?si=-0QbFJpu1ts_5ep_">[video]</a>
-      <br><br>
-      We formulate the CLF-CBF-QP as a Dynamic Embedding problem, defining a virtual continuous-time system that tracks the suboptimal yet any time feasible control input  in real-time. This rigorously guarantees the safety meaning that the constraints are satisfied at all times without any requirement of hessian. 
-  
-</td>
-    <td style="width:50%; vertical-align:top; border:none; text-align:center;">
-      <img src="images/AdvancingControlBarrierFunctionsforReal-TimeComplexSafetySpecifications-MohsenAmiri720ph264-ezgif.com-cut.gif" alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
-      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>Navigation in complex environment</i></p>
-    </td>
-  </tr>
-</table>
-
----
-<table style="width:100%; border:none; border-collapse:collapse;">
-  <tr>
-    <td style="width:50%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
       <h3><u>Safe Robot Action Planning under Human Behavioral Uncertainty with Probabilistic and Vision–Language Reasoning </u></h3>
       <br>
       K, Yazdipaz, <b>M. Amiri</b>, M. Hosseinzadeh
@@ -125,6 +103,29 @@ framework to distinguish between adversarial agents (Level-0) and strategically 
 
 
 
+
+---
+
+<table style="width:100%; border:none; border-collapse:collapse;">
+  <tr>
+    <td style="width:50%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
+      <h3><u>Advancing Control Barrier Functions for Real-Time Complex Safety Specifications</u></h3>
+      <br>
+      <b>M. Amiri</b>, I. Kolmanovsky, M. Hosseinzadeh
+      <br>
+      <i>IEEE (In progress)</i>, 2026
+      <br>
+       <a href="https://www.youtube.com/embed/xEyfdV-u8Zs?si=-0QbFJpu1ts_5ep_">[video]</a>
+      <br><br>
+      We formulate the CLF-CBF-QP as a Dynamic Embedding problem, defining a virtual continuous-time system that tracks the suboptimal yet any time feasible control input  in real-time. This rigorously guarantees the safety meaning that the constraints are satisfied at all times without any requirement of hessian. 
+  
+</td>
+    <td style="width:50%; vertical-align:top; border:none; text-align:center;">
+      <img src="images/AdvancingControlBarrierFunctionsforReal-TimeComplexSafetySpecifications-MohsenAmiri720ph264-ezgif.com-cut.gif" alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
+      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>Navigation in complex environment</i></p>
+    </td>
+  </tr>
+</table>
 
 ---
 <table style="width:100%; border:none; border-collapse:collapse;">
