@@ -29,6 +29,25 @@
             width: 640px;
             height: 360px; /* Updated to 16:9 aspect ratio */
         }
+
+        /* --- New styles for the GitHub link --- */
+        .repo-link {
+            margin-top: 25px;
+            padding: 15px;
+            background-color: #f6f8fa;
+            border: 1px solid #d0d7de;
+            border-radius: 6px;
+        }
+
+        .repo-link a {
+            color: #0969da;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .repo-link a:hover {
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
@@ -52,6 +71,13 @@
         <p>
             For a higher resolution view, click the icon in the bottom right to expand the video.
         </p>
+
+        <div class="repo-link">
+            The source code and materials for this manuscript are available on GitHub:<br>
+            <a href="https://github.com/mohsen1amiri/PriPG-RL_UnitreeGo2" target="_blank">
+                mohsen1amiri/PriPG-RL_UnitreeGo2
+            </a>
+        </div>
     </div>
 </body>
 </html>
