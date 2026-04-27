@@ -19,7 +19,7 @@ author_profile: true
 “Closed-Loop Model Identification and MPC-based Navigation of Quadcopters: A Case Study of Parrot Bebop 2”, in Proc. 4th Modeling, Estimation, and Control Conference, 2024.</p>
     </div>
     <div class="project-image">
-      <img src="/images/color_sort_final.gif" alt="Project 1 Image" style='width:60%;'/>
+      <img src="/images/color_sort_final.gif" alt="Project 1 Image" style='width:90%;'/>
     </div>
   </div>
 
