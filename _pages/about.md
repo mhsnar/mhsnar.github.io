@@ -34,7 +34,7 @@ redirect_from:
       <br>
       <i>The 65th IEEE Conference on Decision and Control (CDC) (Under Review)</i>, 2026
       <br>
-       <a href="https://www.youtube.com/embed/syZmWy7UJe0?si=3e1fC_3dRHls2K3N">[video]</a>
+      <a href="https://doi.org/10.48550/arXiv.2604.08036">[pdf]</a> / <a href="https://github.com/mohsen1amiri/PriPG-RL_UnitreeGo2.git">[Github]</a> / <a href="https://www.youtube.com/embed/syZmWy7UJe0?si=3e1fC_3dRHls2K3N">[video]</a>
       <br><br>  The proposed method addresses the problem of training a reinforcement learning (RL) policy under partial observabil-
 ity by exploiting a privileged, anytime-feasible planner agent available exclusively during training. We propose Planner-to-Policy Soft Actor-Critic (P2P-SAC), a method that distills
 the planner agent’s privileged knowledge to mitigate partial observability and thereby improve both sample efficiency and final policy performance.
