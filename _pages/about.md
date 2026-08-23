@@ -32,7 +32,7 @@ redirect_from:
       <br>
       M. Amiri, <b>M. Amiri</b>, A. Beikmohammadi, S. Magnu´sson, and M. Hosseinzadeh
       <br>
-      <i>The 65th IEEE Conference on Decision and Control (CDC) (Under Review)</i>, 2026
+      <i> IEEE Control Systems Letters (L-CSS) (Under Review)</i>, 2026
       <br>
       <a href="https://doi.org/10.48550/arXiv.2604.08036">[pdf]</a> / <a href="https://github.com/mohsen1amiri/PriPG-RL_UnitreeGo2.git">[Github]</a> / <a href="https://www.youtube.com/embed/syZmWy7UJe0?si=3e1fC_3dRHls2K3N">[video]</a>
       <br><br>  The proposed method addresses the problem of training a reinforcement learning (RL) policy under partial observability by exploiting a privileged, anytime-feasible planner agent available exclusively during training. We propose Planner-to-Policy Soft Actor-Critic (P2P-SAC), a method that distills
@@ -85,7 +85,7 @@ framework to distinguish between adversarial agents (Level-0) and strategically 
       <br>
       K, Yazdipaz, <b>M. Amiri</b>, M. Hosseinzadeh
       <br>
-      <i>Advanced Intelligent Systems (Under Review)</i>, 2026
+      <i>Robotics and Autonomous Systems (Under Review)</i>, 2026
       <br>
       <a href="https://www.youtube.com/embed/g0OT-_c3K9Y?si=TnsMI1Sx9w_7QzYI">[video]</a>
       <br><br>
@@ -134,7 +134,7 @@ framework to distinguish between adversarial agents (Level-0) and strategically 
       <br>
       <b>M. Amiri</b>, I. Kolmanovsky, M. Hosseinzadeh
       <br>
-      <i>IEEE Transactions on Automatic Control (Under review)</i>, 2026
+      <i>IFAC Journal of Systems and Sontrol (Under review)</i>, 2026
       <br>
        <a href="https://youtu.be/sPeUhQ82Mpc">[video]</a>
       <br><br>
