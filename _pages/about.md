@@ -134,7 +134,7 @@ framework to distinguish between adversarial agents (Level-0) and strategically 
       <br>
       <b>M. Amiri</b>, I. Kolmanovsky, M. Hosseinzadeh
       <br>
-      <i>IFAC Journal of Systems and Sontrol (Under review)</i>, 2026
+      <i>IFAC Journal of Systems and Control (Under review)</i>, 2026
       <br>
        <a href="https://youtu.be/sPeUhQ82Mpc">[video]</a>
       <br><br>
